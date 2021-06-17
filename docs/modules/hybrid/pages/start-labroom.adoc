@@ -9,9 +9,10 @@ Swarmlab
 
 == Private/Local
 
-image:hybrid:browsing-labroom.png[Browsing labrooms,450,float=right]
-
 This is the area where you will find the available labrooms and join the desired one.
+
+.browsing-labroom
+image::hybrid:browsing-labroom.png[Browsing labrooms,500,float=center]
 
 You can easily browse throught the available labrooms in the list using the search bar at the top.
 
@@ -28,3 +29,4 @@ This page is connect
 
 This page is stop
 
+image::hybrid:browsing-labroom.png[Browsing labrooms,500,float=right]
