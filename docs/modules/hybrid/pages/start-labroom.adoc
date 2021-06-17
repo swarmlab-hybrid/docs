@@ -11,10 +11,11 @@ Swarmlab
 
 This is the area where you will find the available labrooms and join the desired one.
 
-.browsing-labroom
-image::hybrid:browsing-labroom.png[Browsing labrooms,500,float=center]
-
 You can easily browse throught the available labrooms in the list using the search bar at the top.
+
+.browsing-labroom
+image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
+
 
 
 == Scale
