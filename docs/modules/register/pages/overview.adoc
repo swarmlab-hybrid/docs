@@ -12,10 +12,10 @@ Before you have all of the powerfull tools of Swarmalb at your grasp you will ha
 [IMPORTANT]
 ====
 .Optional Signing
-====
-
 [example]
 Signing in using your GitHub account without a pre-existing Swarmlab account
+====
+
 
 == create an account
 
