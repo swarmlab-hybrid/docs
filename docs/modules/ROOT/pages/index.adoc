@@ -1,0 +1,35 @@
+= Welcome to Hybrid!
+  
+Swarmlab hybrid provides the user with the unique abillity to create Labrooms (or other applications) and share them as project images expanding the simple swarmlab Labrooms to full-blown systems.
+
+An all of that using onlly the browser and the command line of their system.
+
+== How?
+
+You will be connected to the Swarmlab Cloud (hence HYBRID) but you will be able to use your own storage(move files around, delete/copy etc),your own networking and computational power(cpu/graphics etc) and create a system exactly the way you need it.
+
+This way you will be able to :
+
+* create images for testing.
+* Run them using docker.
+* Share them for others to use and develop.
+* Finally browse the cloud for shared images to integrate into your project and make it even better.
+
+=== Ready to run out-of-the-box
+
+
+Normally the docker dataflow is as described in the following images:
+
+image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/images/docker-build.png[]
+
+To make the service easier to use we have created an ever-growing database of readilly accessible images you can choose from, thus making the first step optionall!
+
+
+* Create Labrooms/Applications
+* Run and manage said rooms and application
+* create once - scale up or down without rebuilding
+* Connect multiple computers through a network.
+* Move Labs between environments
+* Create your own labs
+* open source barebone -> Share them with your friends
+
