@@ -9,16 +9,12 @@ Swarmlab
 
 == Private/Local
 
-This is the area where you will find the available labrooms created by tutors and join the desired one.
-Browsing labrooms
+.browsing-labroom.png
+image:images/browsing-labroom.png[Browsing labrooms,200,float=right]
+This is the area where you will find the available labrooms and join the desired one.
 
 You can easily browse throught the available labrooms in the list using the search bar at the top.
 
-
-  
-
-
-This page is start
 
 == Scale
 
