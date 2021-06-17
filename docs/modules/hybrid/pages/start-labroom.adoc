@@ -18,24 +18,29 @@ image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
 
 == Download
 
-After we have located the desired *labroom* we can *Download* it by using the cloud icon. 
-image:hybrid:cloud_icon_down.png[Download]
+After we have located the desired *labroom* we can *Download* it by using the cloud 
+image:hybrid:cloud_icon_down.png[Download] icon.
 
 === Delete
 
-image:hybrid:trash_icon.png[Download,float=right]
-The trash icon  deletes the *labroom.*
+The trash 
+image:hybrid:trash_icon.png[Download]
+icon  deletes the *labroom.*
 
 === Info
 
-image:hybrid:info_icon.png[Info,float=right]
 To request more info about the *labroom* we use the info icon
+image:hybrid:info_icon.png[Info]
 
-=== Connect
+=== Start/Stop
 
-This page is connect
+We can run it by using the *thumb-down*
+image:hybrid:thumb-down.png[thumb-down]
+icon and the  *thumb-up*
+image:hybrid:thumb-up.png[thumb-down]
+icon stops the *labroom*
 
-=== Stop 
+=== Scale
 
 This page is stop
 
