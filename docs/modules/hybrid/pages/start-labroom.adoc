@@ -47,6 +47,8 @@ Set the number of containers to run for a *labroom.*
 .scale
 image::hybrid:scale.png[Console,700,float=center]
 
+We can *start* it by using the *UP* icon (The *Expose Port* can be left blank)
+
 == Console
 
 The *Console* window shows the log messages for the running Labroom
