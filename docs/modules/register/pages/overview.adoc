@@ -9,7 +9,7 @@ Swarmlab
 
 Before you have all of the powerfull tools of Swarmalb at your grasp you will have to create an account.
 
-[IMPORTANT]
+[TIP]
 ====
 .Optional Signing
 [example]
