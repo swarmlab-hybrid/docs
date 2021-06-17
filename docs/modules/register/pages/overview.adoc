@@ -1,0 +1,40 @@
+= The first steps
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+
+
+Before you have all of the powerfull tools of Swarmalb at your grasp you will have to create an account.
+
+== create an account
+
+To do that navigate to the home page at https://api-client.swarmlab.io:8088
+
+You should have been greeted by our login screen!
+
+image::register:login.png[Login,500,float=center]
+
+To register click on the 'login with sso' option and accept the terms.
+
+== register
+
+Now you should be redirected to the login screen and you should be able to use the 'register' option at the bottom to make a new account! +
+
+image::register:terms.png[terms,500,float=center]
+
+image::register:login_main.png[login,500,float=center]
+
+Now fill in the required details
+
+image::register:register_details.png[details,500,float=center]
+
+and follow the remaining instructions to activate your account. +
+
+== Storage
+
+== MicroServices
+
+
