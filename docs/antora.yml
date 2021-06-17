@@ -1,6 +1,7 @@
-name: hybrid
+name: swarmlab
 title: swarmlab
 version: docs
 nav:
 - modules/ROOT/nav.adoc
-- modules/hybrid-labroom/nav.adoc
+- modules/hybrid/nav.adoc
+- modules/venus/nav.adoc
