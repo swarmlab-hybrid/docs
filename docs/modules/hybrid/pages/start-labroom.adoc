@@ -19,7 +19,7 @@ image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
 == Download
 
 After we have located the desired *labroom* we can *Download* it by using the cloud icon. 
-image:hybrid:cloud_icon_down.png[Download,float=right]
+image:hybrid:cloud_icon_down.png[Download]
 
 === Delete
 
