@@ -1,4 +1,4 @@
-= Enter lab room area
+= Private/Local
 Swarmlab
 :idprefix:
 :idseparator: -
@@ -7,7 +7,7 @@ Swarmlab
 :page-pagination:
 
 
-== Private/Local
+== Labroom
 
 This is the area where you will find the available *labrooms* and join the desired one.
 
@@ -34,13 +34,15 @@ image:hybrid:info_icon.png[Info]
 
 === Start/Stop
 
-We can run it by using the *thumb-down*
+We can *start* it by using the *thumb-down*
 image:hybrid:thumb-down.png[thumb-down]
 icon and the  *thumb-up*
 image:hybrid:thumb-up.png[thumb-down]
-icon stops the *labroom*
+icon *stops* the *labroom*
 
-=== Scale
+=== Console
 
-This page is stop
+The *Console* window shows the log messages for the running Labroom
+.browsing-labroom
+image::hybrid:console.png[Console,700,float=center]
 
