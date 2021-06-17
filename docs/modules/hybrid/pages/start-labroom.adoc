@@ -9,18 +9,27 @@ Swarmlab
 
 == Private/Local
 
-This is the area where you will find the available labrooms and join the desired one.
+This is the area where you will find the available *labrooms* and join the desired one.
 
-You can easily browse throught the available labrooms in the list using the search bar at the top.
+You can easily browse throught the available *labrooms* in the list using the search bar at the top.
 
 .browsing-labroom
 image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
 
+== Download
 
+After we have located the desired *labroom* we can *Download* it by using the cloud icon. 
+image:hybrid:cloud_icon.png[Download,float=right]
 
-== Scale
+=== Delete
 
-This page is scale
+image:hybrid:trash_icon.png[Download,float=right]
+The trash icon  deletes the *labroom.*
+
+=== Info
+
+image:hybrid:info_icon.png[Info,float=right]
+To request more info about the *labroom* we use the info icon
 
 === Connect
 
@@ -30,4 +39,3 @@ This page is connect
 
 This page is stop
 
-image::hybrid:browsing-labroom.png[Browsing labrooms,500,float=right]
