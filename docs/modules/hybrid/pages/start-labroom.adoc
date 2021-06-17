@@ -7,9 +7,9 @@ Swarmlab
 :page-pagination:
 
 
-== Labroom
-
 This is the area where you will find the available *labrooms* and join the desired one.
+
+== Labroom
 
 You can easily browse throught the available *labrooms* in the list using the search bar at the top.
 

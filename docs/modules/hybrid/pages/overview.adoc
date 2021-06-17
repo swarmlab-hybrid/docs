@@ -1,19 +1,17 @@
-= Module Deploy - Local 
-  
+= Private/Local
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
 
-== Start Labroom
+This is the area where you will find the available *labrooms* and join the desired one.
 
-This page is start
+== Labrooms
 
-== Scale
+== Storage
 
-This page is scale
+== MicroServices
 
-=== Connect
-
-This page is connect
-
-=== Stop 
-
-This page is stop
 
