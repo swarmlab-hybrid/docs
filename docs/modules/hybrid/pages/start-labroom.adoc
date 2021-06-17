@@ -1,8 +1,22 @@
-= Module Deploy - Local 
-  
-labroom
+= Enter lab room area
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
 
-== Start Labroom
+
+== Private/Local
+
+This is the area where you will find the available labrooms created by tutors and join the desired one.
+Browsing labrooms
+
+You can easily browse throught the available labrooms in the list using the search bar at the top.
+
+
+  
+
 
 This page is start
 
