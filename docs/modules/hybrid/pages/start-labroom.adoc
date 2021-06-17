@@ -40,12 +40,11 @@ icon
 
 === Scale
 
-Set the number of containers to run for a *labroom.*
+Set the number of containers to run for a *labroom*
+and *start* it by using the *UP* icon (The *Expose Port* can be left blank)
 
 .scale
 image::hybrid:scale.png[Console,700,float=center]
-
-We can *start* it by using the *UP* icon (The *Expose Port* can be left blank)
 
 == Stop
 
