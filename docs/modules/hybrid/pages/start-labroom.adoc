@@ -43,6 +43,7 @@ icon *stops* the *labroom*
 === Console
 
 The *Console* window shows the log messages for the running Labroom
+
 .browsing-labroom
 image::hybrid:console.png[Console,700,float=center]
 
