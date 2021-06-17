@@ -45,7 +45,7 @@ icon *stops* the *labroom*
 Set the number of containers to run for a *labroom.*
 
 .scale
-image::hybrid:scake.png[Console,700,float=center]
+image::hybrid:scale.png[Console,700,float=center]
 
 == Console
 
