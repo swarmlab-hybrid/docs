@@ -32,19 +32,18 @@ icon  deletes the *labroom.*
 To request more info about the *instance* we use the more icon
 image:hybrid:more.png[Info]
 
+=== menou
+
+.info menou
+image::hybrid:more-info.png[info,700,float=center]
+
 == Start
 
 We can *start* it by using the *thumb-down*
 image:hybrid:thumb-down.png[thumb-down]
 icon 
 
-=== Scale
 
-Set the number of containers to run for a *labroom*
-and *start* it by using the *UP* icon (The *Expose Port* can be left blank)
-
-.scale
-image::hybrid:scale.png[Console,700,float=center]
 
 == Stop
 
