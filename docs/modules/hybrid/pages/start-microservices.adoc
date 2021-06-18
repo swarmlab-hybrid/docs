@@ -1,0 +1,63 @@
+= Private/Local
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+
+
+This is the area where you will find the available *MicroServices* and join the desired one.
+
+== Microservices
+
+You can easily browse throught the available *MicroServices* in the list using the search bar at the top.
+
+.browsing-MicroServices
+image::hybrid:browsing-microservices.png[Browsing labrooms,700,float=center]
+
+== Download
+
+After we have located the desired *MicroServices* we can *Download* it by using the cloud 
+image:hybrid:cloud_icon_down.png[Download] icon.
+
+== Delete
+
+The trash 
+image:hybrid:trash_icon.png[Download]
+icon  deletes the *MicroServices*
+
+== Info
+
+To request more info about the *MicroServices* we use the info icon
+image:hybrid:info_icon.png[Info]
+
+== Start
+
+We can *start* it by using the *thumb-down*
+image:hybrid:thumb-down.png[thumb-down]
+icon 
+
+
+== Stop
+
+We can *stop* it by using the *thumb-up*
+image:hybrid:thumb-up.png[thumb-up]
+icon
+
+== Console
+
+The *Console* window shows the log messages for the running Labroom
+
+.console
+image::hybrid:console.png[Console,700,float=center]
+
+== Video
+
+=== Start Storage
+
+****
+TIP: Learn how to start using a Microservice
+
+video::564701215[vimeo]
+****
