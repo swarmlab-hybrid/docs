@@ -61,5 +61,10 @@ image::hybrid:console.png[Console,700,float=center]
 
 == Video
 
-TIP: a walkthrough of labs menu options
+.a walkthrough of labs menu options
+****
+
+TIP: Start labroom
 video::564651940[vimeo]
+
+****
