@@ -26,7 +26,7 @@ Normally the docker dataflow is as described in the following images:
 image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/images/docker-build.png[]
 image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/images/docker-run.png[]
 
-[cols="a,h,m,s,e"]
+[cols="a,a"]
 |===
 |Hybrid |Venus
 
@@ -42,8 +42,6 @@ To make the service easier to use we have created an ever-growing database of re
 
 |This column's content is rendered using a monospace font (m).
 
-|This column's content and borders are rendered using the table header (`h`) styles.
-|This column's content is rendered using a monospace font (m).
 |===
 
 
