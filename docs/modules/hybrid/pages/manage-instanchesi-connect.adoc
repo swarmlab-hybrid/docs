@@ -62,9 +62,13 @@ xhost +local:docker
 
 === Connect and maps
 
-****
-TIP: Learn how to connect to Instanche
+**** 
+TIP: Learn how to connect to Instanche using terminal 
 
 video::564842745[vimeo]
+
+TIP: Learn how to connect to Instanche using browser
+
+video::564844891[vimeo]
 ****
 
