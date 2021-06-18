@@ -1,4 +1,4 @@
-* xref:overview.adoc[Hybrid]
+* xref:overview-hybrid.adoc[Hybrid]
 ** xref:overview.adoc[Deploy/Local]
 *** xref:start-labroom.adoc[Labroom]
 *** xref:start-storage.adoc[Storage]

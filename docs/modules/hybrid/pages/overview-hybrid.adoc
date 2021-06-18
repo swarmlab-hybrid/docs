@@ -1,0 +1,14 @@
+= hybrid
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+
+This is the area where you will find the available *labrooms* and join the desired one.
+
+
+hybrid menou description 
+
+
