@@ -30,7 +30,9 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 |===
 |Hybrid |Venus
 
-|To make the service easier to use we have created an ever-growing database of readilly accessible images you can choose from, thus making the first step optionall!
+|We have created an ever-growing database of readilly accessible labrooms you can choose from, thus making the first step optionall!
+
+ Ready to use, on demand virtual labs
 
 * Run and manage said rooms and application
 * Create Labrooms/Applications/Microservices
@@ -44,10 +46,9 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 * Move Labs between environments
 
-|Venus make collaboration easier with Venus you can  
-Build the network you require on demand and without effort.
+|*Venus make collaboration easier*
 
- created a service that you would like to test on a real-world network
+ Build the network you require on demand and without effort.
 
 You can Create and manage
 
@@ -60,7 +61,7 @@ You can Create and manage
 
 Swarmlab-Venus provides
 
-* Secure and state-of-the-art cryptography (like the Noise protocol framework, Curve25519, ChaCha20, Poly1305, BLAKE2, SipHash24, HKDF) - integrated across all connections
+* Secure and state-of-the-art cryptography  - integrated across all connections
 * Manage the entire network as a service
 * Architecture/Platform Agnostic
 * Manage user network access
