@@ -14,7 +14,7 @@ This is the area where you will find the available *storage* and join the desire
 You can easily browse throught the available *storage* in the list using the search bar at the top.
 
 .browsing-storage
-image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
+image::hybrid:browsing-storage.png[Browsing labrooms,700,float=center]
 
 == Download
 
