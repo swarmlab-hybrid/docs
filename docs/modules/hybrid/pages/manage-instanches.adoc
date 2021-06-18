@@ -32,10 +32,18 @@ icon  deletes the *labroom.*
 To request more info about the *instance* we use the more icon
 image:hybrid:more.png[Info]
 
-=== menou
+=== info-menou
 
 .info menou
 image::hybrid:more-menou.png[info,700,float=center]
+
+=== network-info
+
+To request more info about the *network* we use the network icon
+image:hybrid:more-network.png[Network]
+
+.network info
+image::hybrid:more-network-info.png[info,700,float=center]
 
 === Connect/Stop/Logs
 
