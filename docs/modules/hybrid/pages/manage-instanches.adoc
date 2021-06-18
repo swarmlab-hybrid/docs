@@ -37,13 +37,6 @@ image:hybrid:more.png[Info]
 .info menou
 image::hybrid:more-menou.png[info,700,float=center]
 
-=== network-info
-
-To request more info about the *network* we use the network icon
-image:hybrid:more-network.png[Network]
-
-.network info
-image::hybrid:more-network-info.png[info,700,float=center]
 
 === Connect/Stop/Logs
 
@@ -60,3 +53,10 @@ The *Console* window shows the log messages for the running instanche
 .console
 image::hybrid:console.png[Console,700,float=center]
 
+=== network-info
+
+To request more info about the *network* we use the network icon
+image:hybrid:more-network.png[Network]
+
+.network info
+image::hybrid:more-network-info.png[info,700,float=center]
