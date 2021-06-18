@@ -45,7 +45,7 @@ image:hybrid:more-buttons.png[float=right]
 * We can *stop* it by using the *stop* icon
 * We can *show* the log messages by using the *log* icon
 
-==== Console
+=== Console
 
 The *Console* window shows the log messages for the running instanche 
 
