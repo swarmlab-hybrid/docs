@@ -21,8 +21,28 @@ image::hybrid:manage-instanches-connect.png[network,float=center]
 
 == Directory Maps
 
+In general, Docker containers are ephemeral, running just as long as it takes for the command issued in the container to complete. By default, any data created inside the container is only available from within the container and only while the container is running.
+
+=== Mounts
+
+image:hybrid:types-of-mounts-volume.png[300,float=right]
+
+Bind mounts have been around since the early days of Docker
+
+A bind mount is a file or folder stored anywhere on the container host filesystem, mounted into a running container. 
+
+The file or directory is referenced by its absolute path on the host machine
+
+The file or directory does not need to exist on the Docker host already. It is created on demand if it does not yet exist. Bind mounts are very performant, but they rely on the host machine’s filesystem having a specific directory structure available.
+
+=== Swarmlab maps
+
+Directory maps can be used to share files between a host system and the Docker container
+
 .directory maps
 image::hybrid:manage-instanches-maps.png[maps,float=center]
+
+
 
 == X apps
 
