@@ -28,9 +28,9 @@ image::hybrid:manage-instanches-maps.png[maps,float=center]
 
 App with GUI
 
-run
+Open a terminakl and Run:
 
 [source,bash]
-====
+----
 xhost +local:docker
-====
+----
