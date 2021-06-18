@@ -29,8 +29,8 @@ icon  deletes the *labroom.*
 
 == Info
 
-To request more info about the *labroom* we use the info icon
-image:hybrid:info_icon.png[Info]
+To request more info about the *instance* we use the more icon
+image:hybrid:more.png[Info]
 
 == Start
 

@@ -4,5 +4,5 @@
 *** xref:start-storage.adoc[Storage]
 *** xref:start-microservices.adoc[Microservices]
 
-** xref:manage-instanches.adoc[ManageInstances]
+** xref:manage-instanches.adoc[Instances]
 
