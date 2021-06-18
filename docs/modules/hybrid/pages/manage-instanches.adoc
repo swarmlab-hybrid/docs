@@ -36,6 +36,7 @@ image:hybrid:more-buttons.png[float=right]
 * We can *connect* to instanche by using the btn:[connect] button 
 * We can *stop* it by using the btn:[stop] button
 * We can *show* the log messages by using the btn:[log] button
+* We can *list* ports exposed outside the Docker Networks by using the btn:[link] button
 
 === Console
 
