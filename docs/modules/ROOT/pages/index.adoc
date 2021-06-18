@@ -32,15 +32,40 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 |To make the service easier to use we have created an ever-growing database of readilly accessible images you can choose from, thus making the first step optionall!
 
-* Create Labrooms/Applications
 * Run and manage said rooms and application
-* create once - scale up or down without rebuilding
-* Connect multiple computers through a network.
-* Move Labs between environments
-* Create your own labs
-* open source barebone -> Share them with your friends
+* Create Labrooms/Applications/Microservices
+** create once - scale up or down without rebuilding
 
-|This column's content is rendered using a monospace font (m).
+* on-demand 
+** sandbox environments
+** Virtual Labrooms
+** Virtual Classrooms
+** Proof-of-Concept (POC)
+
+* Move Labs between environments
+
+|Venus make collaboration easier with Venus you can  
+Build the network you require on demand and without effort.
+
+ created a service that you would like to test on a real-world network
+
+You can Create and manage
+
+* on-demand network environments using any cloud over any network
+* Connect multiple computers through a network.
+* Share you Labrooms/Applications/Microservices with your friends
+* Move Labs between networks
+* anything else you that might suit your needs in a dynamic and Scalable Distributed Architecture
+
+
+Swarmlab-Venus provides
+
+* Secure and state-of-the-art cryptography (like the Noise protocol framework, Curve25519, ChaCha20, Poly1305, BLAKE2, SipHash24, HKDF) - integrated across all connections
+* Manage the entire network as a service
+* Architecture/Platform Agnostic
+* Manage user network access
+* Network traffic analysis
+
 
 |===
 
