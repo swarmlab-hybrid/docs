@@ -62,9 +62,12 @@ You can create multiple networks and add containers to one or more networks. A c
 
 === add network
 
-You can use kbd:[Ctrl] to select multiple networks
+To add more  *networks* we use the network icon
+image:hybrid:more-network.png[Network]
 
 image::hybrid:more-network-update.png[Networkupdate,float=center]
+
+You can use kbd:[Ctrl] to select multiple networks
 
 After we have selected the desired *networks* we can *update* it by using the btn:[update] icon
 
