@@ -8,7 +8,7 @@ Swarmlab
 :experimental:
 
 
-This is the area where you can *View and Manage your running Containers*
+This is the area where you can *View and Manage your running Instanches*
 
 == View your running Instanches
 

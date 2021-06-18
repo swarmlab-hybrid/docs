@@ -8,7 +8,10 @@ Swarmlab
 :experimental:
 
 
-This is the area where you can *connect to running Containers*
+This is the area where you can *connect to running Instanches*
+
+To request more info about the *instance* we use the more icon
+image:hybrid:more.png[Info]
 
 == Connect
 
