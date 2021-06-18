@@ -39,6 +39,8 @@ image:hybrid:more-buttons.png[float=right]
 * We can *list* ports exposed outside the Docker Networks by using the btn:[link] button
 * We can get info about the *network* with the btn:[network] button
 
+image:hybrid:more-network.png[float=right]
+
 === Console
 
 The *Console* window shows the log messages for the running instanche 
