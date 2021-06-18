@@ -61,7 +61,14 @@ You can create multiple networks and add containers to one or more networks. A c
 
 === add network
 
+Select menu:File[Open Project] to open the project in your IDE.
+
+Per ea btn:[Cancel] inimicus.
+
+Ferri kbd:[F11] tacimates constituam sed ex, eu mea munere vituperata kbd:[Ctrl,T] constituam.
+
 You can use kbd:[Ctrl] to select multiple networks
+
 image::hybrid:more-network-update.png[Networkupdate,float=center]
 
 After we have selected the desired *networks* we can *update* it by using the update icon
