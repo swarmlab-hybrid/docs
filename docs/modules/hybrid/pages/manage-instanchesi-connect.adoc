@@ -10,7 +10,7 @@ Swarmlab
 
 This is the area where you can *connect to running Containers*
 
-=== Connect
+== Connect
 
 image:hybrid:more-buttons.png[float=right]
 
@@ -19,6 +19,18 @@ image:hybrid:more-buttons.png[float=right]
 .connect
 image::hybrid:manage-instanches-connect.png[network,float=center]
 
+== Directory Maps
 
+.directory maps
+image::hybrid:manage-instanches-maps.png[maps,float=center]
 
+== X apps
 
+App with GUI
+
+run
+
+[source,bash]
+====
+xhost +local:docker
+====
