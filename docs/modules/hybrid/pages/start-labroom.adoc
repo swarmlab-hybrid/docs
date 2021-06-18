@@ -59,3 +59,6 @@ The *Console* window shows the log messages for the running Labroom
 .console
 image::hybrid:console.png[Console,700,float=center]
 
+== Video
+
+video::564651940[vimeo]

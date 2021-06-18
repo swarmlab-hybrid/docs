@@ -4,7 +4,7 @@ image::ROOT:swarmlab.png[swarmlab,150,float=right]
 
 Swarmlab provides the user with the unique abillity to *create Labrooms* (or other applications) and *share* them as project images expanding the simple swarmlab Labrooms to full-blown systems.
 
- An all of that using onlly the browser and the command line of their system.
+An all of that using onlly the browser and the command line of their system.
 
 == Intro
 
@@ -32,7 +32,7 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 |*We have created an ever-growing database of readilly accessible labrooms you can choose from*
 
- Ready to use, on demand virtual labs
+ Ready to use, on demand virtual labs/microservices
 
 * Run and manage said rooms and application
 * Create Labrooms/Applications/Microservices
