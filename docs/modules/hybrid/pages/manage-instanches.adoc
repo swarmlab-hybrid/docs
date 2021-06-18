@@ -37,33 +37,19 @@ image:hybrid:more.png[Info]
 .info menou
 image::hybrid:more-menou.png[info,700,float=center]
 
-== Start
+==== Connect/Stop/Logs
 
-We can *start* it by using the *thumb-down*
-image:hybrid:thumb-down.png[thumb-down]
-icon 
+image:hybrid:more-buttons.png[float=right]
+We can *connect* it by using the *connect* icon 
 
+We can *stop* it by using the *stop* icon
 
+We can *show* the log messages by using the *log* icon
 
-== Stop
+==== Console
 
-We can *stop* it by using the *thumb-up*
-image:hybrid:thumb-up.png[thumb-up]
-icon
-
-== Console
-
-The *Console* window shows the log messages for the running Labroom
+The *Console* window shows the log messages for the running instanche 
 
 .console
 image::hybrid:console.png[Console,700,float=center]
 
-== Video
-
-=== Start Labroom
-
-****
-TIP: Learn how to start using a Labroom
-
-video::564651940[vimeo]
-****
