@@ -61,8 +61,10 @@ image::hybrid:console.png[Console,700,float=center]
 
 == Video
 
+=== Start Labroom
+
 ****
-TIP: a walkthrough of labs menu options
+TIP: Learn how to start using a Labroom
 
 video::564651940[vimeo]
 ****
