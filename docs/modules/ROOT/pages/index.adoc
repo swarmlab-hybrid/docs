@@ -69,7 +69,6 @@ Swarmlab-Venus provides
 |===
 
 
-```asciidoc
 
 content before
 
@@ -80,4 +79,3 @@ image::http://docs.jboss.org/tools/whatsnew/jst/images/4.1.0.Beta1/set.png[,400]
 
 content after
 
-```
