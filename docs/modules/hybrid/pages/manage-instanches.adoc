@@ -10,7 +10,7 @@ Swarmlab
 
 This is the area where you can *View and Manage your running Containers*
 
-== View your running Containers
+== View your running Instanches
 
 You can easily browse throught the running *instanches* in the list using the search bar at the top.
 
