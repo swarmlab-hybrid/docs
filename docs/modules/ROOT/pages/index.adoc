@@ -6,7 +6,7 @@ Swarmlab provides the user with the unique abillity to create Labrooms (or other
 
 An all of that using onlly the browser and the command line of their system.
 
-== How?
+== How
 
 You will be connected to the Swarmlab Cloud (hence HYBRID) but you will be able to use your own storage(move files around, delete/copy etc),your own networking and computational power(cpu/graphics etc) and create a system exactly the way you need it.
 
@@ -26,7 +26,7 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 == Services
 
-[cols="2a,1a"]
+[cols="a,a"]
 |===
 |Hybrid |Venus
 
@@ -68,3 +68,16 @@ Swarmlab-Venus provides
 
 |===
 
+
+```asciidoc
+
+content before
+
+[.left]
+image::http://docs.jboss.org/tools/whatsnew/jst/images/4.1.0.Alpha2/lf.png[,200]
+[.left]
+image::http://docs.jboss.org/tools/whatsnew/jst/images/4.1.0.Beta1/set.png[,400]
+
+content after
+
+```
