@@ -47,14 +47,14 @@ icon
 
 == Console
 
-The *Console* window shows the log messages for the running Labroom
+The *Console* window shows the log messages for the runningmicroservice
 
 .console
 image::hybrid:console.png[Console,700,float=center]
 
 == Video
 
-=== Start Storage
+=== Start microservice
 
 ****
 TIP: Learn how to start using a Microservice
