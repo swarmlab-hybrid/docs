@@ -5,6 +5,7 @@ Swarmlab
 :!example-caption:
 :!table-caption:
 :page-pagination:
+:experimental:
 
 
 This is the area where you can *View and Manage your running Containers*
