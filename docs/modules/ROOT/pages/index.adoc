@@ -1,7 +1,9 @@
 = Welcome to Swarmlab!
   
+[.right]
 image::ROOT:swarmlab.png[swarmlab,200,float=right]
 
+[.left]
 Swarmlab provides the user with the unique abillity to create Labrooms (or other applications) and share them as project images expanding the simple swarmlab Labrooms to full-blown systems.
 
 An all of that using onlly the browser and the command line of their system.
@@ -67,15 +69,4 @@ Swarmlab-Venus provides
 * Network traffic analysis
 
 |===
-
-
-
-content before
-
-[.left]
-image::http://docs.jboss.org/tools/whatsnew/jst/images/4.1.0.Alpha2/lf.png[,200]
-[.left]
-image::http://docs.jboss.org/tools/whatsnew/jst/images/4.1.0.Beta1/set.png[,400]
-
-content after
 
