@@ -30,8 +30,8 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 |===
 |Hybrid |Venus
 
-|This column's content and borders are rendered using the table header (`h`) styles.
-To make the service easier to use we have created an ever-growing database of readilly accessible images you can choose from, thus making the first step optionall!
+|To make the service easier to use we have created an ever-growing database of readilly accessible images you can choose from, thus making the first step optionall!
+
 * Create Labrooms/Applications
 * Run and manage said rooms and application
 * create once - scale up or down without rebuilding
