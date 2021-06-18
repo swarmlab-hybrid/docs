@@ -5,4 +5,5 @@
 *** xref:start-microservices.adoc[Microservices]
 
 ** xref:manage-instanches.adoc[Instances]
+*** xref:manage-instanchesi-connect.adoc[connect]
 

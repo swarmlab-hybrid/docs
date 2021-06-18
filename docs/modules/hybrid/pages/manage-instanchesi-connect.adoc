@@ -1,0 +1,39 @@
+= Instanches
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+
+
+This is the area where you can *connect to running Containers*
+
+=== Connect
+
+image:hybrid:more-buttons.png[float=right]
+
+* We can *connect* to instanche by using the btn:[connect] button 
+
+== manage network
+
+image:hybrid:more-network-info-info.png[network,300,float=right]
+
+Networks can be configured to provide complete isolation for containers, which enable building applications that work together securely.
+
+You can add containers to one or more networks. A container with attachments to multiple networks can connect with all of the containers on all of those networks. This lets you build a “hub” of sorts to connect to multiple networks and separate concerns.
+
+=== multiple network
+
+To add more  *networks* we use the network icon
+image:hybrid:more-network.png[Network]
+
+image::hybrid:more-network-update.png[Networkupdate,float=center]
+
+You can use kbd:[Ctrl] to select multiple networks
+
+After we have selected the desired *networks* we can *update* it by using the btn:[update] icon
+
+
+
