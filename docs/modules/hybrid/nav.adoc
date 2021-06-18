@@ -1,4 +1,5 @@
 * xref:overview.adoc[Hybrid]
-** xref:start-labroom.adoc[Labroom]
-** xref:start-storage.adoc[Storage]
-** xref:start-microservices.adoc[Microservices]
+** xref:overview.adoc[Deploy/Local]
+*** xref:start-labroom.adoc[Labroom]
+*** xref:start-storage.adoc[Storage]
+*** xref:start-microservices.adoc[Microservices]
