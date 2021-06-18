@@ -30,7 +30,7 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 |===
 |Hybrid |Venus
 
-|We have created an ever-growing database of readilly accessible labrooms you can choose from, thus making the first step optionall!
+|*We have created an ever-growing database of readilly accessible labrooms you can choose from*
 
  Ready to use, on demand virtual labs
 
