@@ -60,7 +60,7 @@ Networks can be configured to provide complete isolation for containers, which e
 
 You can add containers to one or more networks. A container with attachments to multiple networks can connect with all of the containers on all of those networks. This lets you build a “hub” of sorts to connect to multiple networks and separate concerns.
 
-=== add network
+=== multiple network
 
 To add more  *networks* we use the network icon
 image:hybrid:more-network.png[Network]
