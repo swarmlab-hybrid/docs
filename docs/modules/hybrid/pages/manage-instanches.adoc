@@ -37,14 +37,13 @@ image:hybrid:more.png[Info]
 .info menou
 image::hybrid:more-menou.png[info,700,float=center]
 
-==== Connect/Stop/Logs
+=== Connect/Stop/Logs
 
 image:hybrid:more-buttons.png[float=right]
-We can *connect* it by using the *connect* icon 
 
-We can *stop* it by using the *stop* icon
-
-We can *show* the log messages by using the *log* icon
+* We can *connect* it by using the *connect* icon 
+* We can *stop* it by using the *stop* icon
+* We can *show* the log messages by using the *log* icon
 
 ==== Console
 
