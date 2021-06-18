@@ -67,6 +67,8 @@ Per ea btn:[Cancel] inimicus.
 
 Ferri kbd:[F11] tacimates constituam sed ex, eu mea munere vituperata kbd:[Ctrl,T] constituam.
 
+kbd:[esc] 
+
 You can use kbd:[Ctrl] to select multiple networks
 
 image::hybrid:more-network-update.png[Networkupdate,float=center]
