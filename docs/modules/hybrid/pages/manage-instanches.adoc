@@ -16,16 +16,6 @@ You can easily browse throught the running *instanches* in the list using the se
 .view containers
 image::hybrid:manage-instanches.png[Manage instanches,700,float=center]
 
-== Download
-
-After we have located the desired *labroom* we can *Download* it by using the cloud 
-image:hybrid:cloud_icon_down.png[Download] icon.
-
-== Delete
-
-The trash 
-image:hybrid:trash_icon.png[Download]
-icon  deletes the *labroom.*
 
 == Info
 
@@ -42,7 +32,7 @@ image::hybrid:more-menou.png[info,700,float=center]
 
 image:hybrid:more-buttons.png[float=right]
 
-* We can *connect* it by using the *connect* icon 
+* We can *connect* to instanche by using the *connect* icon 
 * We can *stop* it by using the *stop* icon
 * We can *show* the log messages by using the *log* icon
 
