@@ -1,9 +1,7 @@
 = Welcome to Swarmlab!
   
-[.right]
-image::ROOT:swarmlab.png[swarmlab,200,float=right]
+image::ROOT:swarmlab.png[swarmlab,150,float=right]
 
-[.left]
 Swarmlab provides the user with the unique abillity to create Labrooms (or other applications) and share them as project images expanding the simple swarmlab Labrooms to full-blown systems.
 
 An all of that using onlly the browser and the command line of their system.
