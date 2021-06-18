@@ -43,11 +43,13 @@ icon
 *start* it by using the *UP* icon 
 
 ****
-When sharding a cluster, a shard key gets created as one of the initial steps. 
+INFO: When sharding a cluster, a shard key gets created as one of the initial steps. 
 
 The “shard key” is used to distribute the Cluster collection’s documents across all the shards. 
 
 image::hybrid:browsing-storage-sudo.png[Console,700,float=center]
+
+ Open a terminal window and execute the above command.
 ****
 
 == Stop
