@@ -15,6 +15,23 @@ This way you will be able to :
 * Share them for others to use and develop.
 * Finally browse the cloud for shared images to integrate into your project and make it even better.
 
+
+[cols="h,m,s,e"]
+|===
+|Column 1 |Column 2 |Column 3 |Column 4
+
+|This column's content and borders are rendered using the table header (`h`) styles.
+|This column's content is rendered using a monospace font (m).
+|This column's content is bold (`s`).
+|This column's content is italicized (`e`).
+
+|This column's content and borders are rendered using the table header (`h`) styles.
+|This column's content is rendered using a monospace font (m).
+|This column's content is bold (`s`).
+|This column's content is italicized (`e`).
+|===
+
+
 === Ready to run out-of-the-box
 
 
