@@ -57,3 +57,14 @@ Open a terminakl and Run:
 ----
 xhost +local:docker
 ----
+
+== Video
+
+=== Connect and maps
+
+****
+TIP: Learn how to connect to Instanche
+
+video::564842745[vimeo]
+****
+
