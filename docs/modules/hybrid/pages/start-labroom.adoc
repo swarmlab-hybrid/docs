@@ -61,5 +61,7 @@ image::hybrid:console.png[Console,700,float=center]
 
 == Video
 
-.a walkthrough of labs menu options
+[TIP]
+a walkthrough of labs menu options
+
 video::564651940[vimeo]
