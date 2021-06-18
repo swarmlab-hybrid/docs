@@ -37,9 +37,7 @@ image:hybrid:more-buttons.png[float=right]
 * We can *stop* it by using the btn:[stop] button
 * We can *show* the log messages by using the btn:[log] button
 * We can *list* ports exposed outside the Docker Networks by using the btn:[link] button
-* We can get info about the *network* with the btn:[network] button
-
-image:hybrid:more-network.png[float=right]
+* We can get info about the *network* with the btn:[network] button image:hybrid:more-network.png[]
 
 === Console
 
