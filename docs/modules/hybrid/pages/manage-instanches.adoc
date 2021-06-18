@@ -35,7 +35,7 @@ image:hybrid:more.png[Info]
 === menou
 
 .info menou
-image::hybrid:more-info.png[info,700,float=center]
+image::hybrid:more-menou.png[info,700,float=center]
 
 == Start
 
