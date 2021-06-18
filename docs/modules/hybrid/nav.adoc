@@ -1,2 +1,3 @@
 * xref:overview.adoc[Hybrid]
 ** xref:start-labroom.adoc[Labroom]
+** xref:start-storage.adoc[Storage]
