@@ -16,20 +16,6 @@ This way you will be able to :
 * Finally browse the cloud for shared images to integrate into your project and make it even better.
 
 
-[cols="h,m,s,e"]
-|===
-|Column 1 |Column 2 |Column 3 |Column 4
-
-|This column's content and borders are rendered using the table header (`h`) styles.
-|This column's content is rendered using a monospace font (m).
-|This column's content is bold (`s`).
-|This column's content is italicized (`e`).
-
-|This column's content and borders are rendered using the table header (`h`) styles.
-|This column's content is rendered using a monospace font (m).
-|This column's content is bold (`s`).
-|This column's content is italicized (`e`).
-|===
 
 
 === Ready to run out-of-the-box
@@ -40,6 +26,11 @@ Normally the docker dataflow is as described in the following images:
 image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/images/docker-build.png[]
 image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/images/docker-run.png[]
 
+[cols="h,m,s,e"]
+|===
+|Hybrid |Venus
+
+|This column's content and borders are rendered using the table header (`h`) styles.
 To make the service easier to use we have created an ever-growing database of readilly accessible images you can choose from, thus making the first step optionall!
 
 
@@ -50,4 +41,11 @@ To make the service easier to use we have created an ever-growing database of re
 * Move Labs between environments
 * Create your own labs
 * open source barebone -> Share them with your friends
+
+|This column's content is rendered using a monospace font (m).
+
+|This column's content and borders are rendered using the table header (`h`) styles.
+|This column's content is rendered using a monospace font (m).
+|===
+
 
