@@ -1,4 +1,3 @@
-* xref:quickstart.adoc[Quickstart]
 * xref:overview-hybrid.adoc[Hybrid]
 ** xref:overview.adoc[Deploy/Local]
 *** xref:start-labroom.adoc[Labroom]
