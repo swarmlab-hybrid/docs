@@ -53,7 +53,7 @@ icon
 === umount
 
 we using the 
-image::venus:volume-mount-yes.png[]
+image:venus:volume-mount-yes.png[]
 icon
 
 
@@ -72,7 +72,7 @@ o katalogos p.x. sto paradeigma tha einai tou styl
 
 se afto mporeite na valete oti archeio thelete na diamoirasete
 
-TIP: to parapano doulevi mono otan vlepoum this icon image::venus:volume-mount-yes.png[] 
+TIP: to parapano doulevi mono otan vlepoum this icon image:venus:volume-mount-yes.png[] 
 
 == disconnect
 
