@@ -9,6 +9,9 @@ Swarmlab
 This is the area where you will find the available *labrooms* and join the desired one.
 
 
-hybrid menou description 
+== Private/Labroom
+== Instanches
+== Hybrid/Public
+== Builders
 
 
