@@ -42,7 +42,7 @@ image::venus:manage-deploy.png[Deploy networks,700,float=center]
 === Network info
 
 To request more info about the *network* we use the
-image:hybrid:more-network.png[Network]
+image:hybrid:more.png[Network]
 icon
 
 .network info
