@@ -58,8 +58,6 @@ me to btn:[info] mporoume na doume plirofories sxetika me to app pou kaname shar
 * to url p.x. pou mporoume na diamirasoume stous users
 * to url pou mporoume emeis i idioi na sindethounme
 
-sto paradeigma edo p.x. gia na sindethoume sto jupyter prepei emeis na trexoume ston browser to link pou vlepoume sto *URL to connect to Jupyter*
-
 
 TIP: mporoume na doume oti emeis chrissimopioume tin address tou eth0 pou einai sindedemnei me to pc mas
 
