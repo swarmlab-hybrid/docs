@@ -16,7 +16,7 @@ This is the area where you will quide you to share  and connect to volumes
 image::venus:volume-main.png[Volume menou,750,float=center]
 
 
-=== you shared volumes
+== you shared volumes
 
 on the left mporoume na doume volumes pou kanete eseis share
 
@@ -24,7 +24,7 @@ on the left mporoume na doume volumes pou kanete eseis share
 image::venus:volume-left.png[Volume menou,700,float=center]
 
 
-=== shared from others
+== shared from others
 
 sta dexia mporoume na doume voumes pou ginonte shared apo sindedemneous users
 
@@ -33,4 +33,4 @@ kai ep[issi sto kato meros se poia apo afta iste sindedemnos idi
 .volume from others
 image::venus:volume-right.png[Volume others,700,float=center]
 
-TIP: oi plirofories emfanisonte gia to diktyo pou tha epilexoume (sto top-left menou) kai oxi gia ola ta diktya
+TIP: oi plirofories emfanisonte gia to diktyo pou tha epilexoume (sto top-left menou) kai oxi gia ola ta diktya. gia na paroume aftes afta ta info we using the  image:venus:volume-more.png[] icon
