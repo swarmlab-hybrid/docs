@@ -35,7 +35,7 @@ To share you app we use the btn:[share]
  button
 
 .browsing network 
-image::venus:share-info.png[browse network,700,float=center]
+image::venus:share-networks.png[browse network,700,float=center]
 
 kato apo to btn:[share] emfanisonte ta diktya pou imaste sindedemnoi
 
