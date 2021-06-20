@@ -21,7 +21,7 @@ image::venus:join.png[Browsing network,700,float=center]
 
 To request more info about the *network* we use the
 more
-image:venus:more.png[Info]
+image:hybrid:more.png[Info]
  icon
 
 .browsing network
