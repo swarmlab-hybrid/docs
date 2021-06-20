@@ -1,0 +1,34 @@
+= Volume
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+
+
+This is the area where you will quide you to share volumes
+
+== share
+
+.share volume
+image::venus:volume-left.png[Volume menou,700,float=center]
+
+== shared volumes
+
+
+=== create
+
+gia na kaneis volume share we using the  image:venus:volume-share-icon.png[] icon 
+
+tha emfanistei to akoloutho menou
+
+.create volume
+image::venus:volume-create.png[Volume create,700,float=center]
+
+dose onoma kai rights kai pata to btn:[Create Volume] button 
+
+meta apo afto tha emfanistei sto menou *My shared Volumes*
+
+
