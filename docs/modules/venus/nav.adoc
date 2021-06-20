@@ -2,3 +2,4 @@
 ** xref:overview-network.adoc[Network]
 *** xref:deploy.adoc[Deploy]
 *** xref:join.adoc[Join]
+*** xref:user.adoc[User]

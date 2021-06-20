@@ -1,0 +1,29 @@
+= User
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+
+
+This is the area where you will quide you to manage the user access
+
+== show networks
+
+To request more info about the *network* we use the info icon
+
+.network info
+image::venus:manage-deploy-more.png[network info,700,float=center]
+
+=== Manage users
+
+We can *add*/*remove* users by using the btn:[Show users] button 
+
+.network user
+image::venus:manage-deploy-showusers.png[manage user,700,float=center]
+
+and then the buttons above to add or remove the certain user whe want
+
+
