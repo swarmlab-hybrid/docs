@@ -1,4 +1,4 @@
-= Private/Local
+= Join
 Swarmlab
 :idprefix:
 :idseparator: -
@@ -10,7 +10,7 @@ Swarmlab
 
 This is the area where you will quide you to Join the network  pou theleis
 
-== Join
+== Browse
 
 You can easily browse throught the available *labrooms* in the list using the search bar at the top.
 
@@ -38,10 +38,9 @@ pou simeni oti ama to kaneis mia fora den tha emfanistei
 
 === Connect
 
-afou kanete request kai sas dechti o owner tha emanistoun ta icons dipla sto network pou thelete 
-
-.network connect
 image::venus:join-status.png[network connect,300,float=right]
+
+afou kanete request kai sas dechti o owner tha emanistoun ta icons dipla sto network pou thelete 
 
 meta apo afto  mporeite na chrissimopiisete to btn:[Start Network] button
 
