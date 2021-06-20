@@ -6,8 +6,9 @@ Swarmlab
 :!table-caption:
 :page-pagination:
   
-This is the area where you will quide you to Build the network you require on demand and without effort.
+This is the area where you will quide you to *Build* the network you require on demand and without effort.
 
+share app/volume stous collaborators
 == Network
 
 * Join 

@@ -1,20 +1,21 @@
-= Module Deploy - Local 
+= Netowk
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
   
-venus
+This is the area where you will quide you to Build the network  or Join one 
 
-== Start Labroom
+== Deploy
 
 This page is start
 
-== Scale
+== Join
 
 This page is scale
 
 === Connect
 
-This page is connect
-
-=== Stop 
-
-This page is stop
 
