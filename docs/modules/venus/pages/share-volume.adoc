@@ -1,4 +1,4 @@
-= Deploy
+= Volume
 Swarmlab
 :idprefix:
 :idseparator: -
@@ -8,57 +8,21 @@ Swarmlab
 :experimental:
 
 
-This is the area where you will quide you to Build the network  pou theleis
+This is the area where you will quide you to share  and connect to volumes
 
-== Deploy
+== main menou
 
-.deploy networks
-image::venus:deploy.png[Deploy networks,700,float=center]
-
-We can *create* the network by using the btn:[Create Network] button 
-
-=== StackName 
-
-To start, we need to have a Network Stack Name 
-
-This will bring up all the services, volumes, networks and everything else
-in an isolated environment. 
-
-=== Name 
-
-A name or something that gives  the subject of your project. 
-
-=== Start and End Time
-
-A network must have a start and end time
+.volume menou
+image::venus:volume-main.png[Volume menou,750,float=center]
 
 
+=== you shared volumes
 
-== Manage
+.volume you share
+image::venus:volume-left.png[Volume menou,700,float=center]
 
-.manage networks
-image::venus:manage-deploy.png[Deploy networks,700,float=center]
+=== shared from others
 
-=== Network info
+.volume from others
+image::venus:volume-right.png[Volume others,700,float=center]
 
-To request more info about the *network* we use the
-image:hybrid:more.png[Network]
-icon
-
-.network info
-image::venus:manage-deploy-more.png[network info,700,float=center]
-
-=== Remove Networks
-
-We can *remove* the network by using the btn:[Remove Network] button 
-
-=== Manage users
-
-We can *add*/*remove* users by using the btn:[Show users] button 
-
-.network user
-image::venus:manage-deploy-showusers.png[manage user,700,float=center]
-
-
-
-and then the buttons above to add or remove the certain user whe want using the btn:[action] button

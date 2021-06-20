@@ -75,7 +75,7 @@ http://10.1.2.67:8888/lab?token=819cfaa82577cc7ec49fec0a39f57bc12e37883119237cf3
 
 == undo share
 
-To undo more the share pou kaname we use the btn:[Default] button
+To undo  the share pou kaname we use the btn:[Default] button
 
 .share default info
 image::venus:share-info-default.png[share default info,350,float=right]
