@@ -66,7 +66,7 @@ The *container* option containerize the containers networking
 
 image:venus:host-connection.png[host connect,350,float=right]
 
-The host option is used to make the interface look like they are running on the host itself. It allows the Virtual Network Interface greater network access than it can normally get.
+It allows the Virtual Network Interface greater network access than it can normally get.
 
 If you use host then you’ll get all ports listening on the host. 
 
@@ -82,8 +82,23 @@ A container option is used to isolate the services from different container and 
 
 TIP: With this option you can *NOT* access the other participants in the network and vice versa from your computer 
 
+=== connect status
 
+.connect status
+image::venus:join-connect-status.png[connect status,700,float=center]
 
+after connecting vlepoume 
 
+* to status sto collumn *join*
+* emfanisete to btn:[Leave Network] button, to opoio mporoume na to chrissimopiisoume gia na kanoume disconnect
+* stin grammi  *Interface* emfanisete to onoma tou interface kai i ean einai up i down
+* stin grammi  *Network* emfanisete to onoma tou interface pou dimiourgithike
+
+=== connect info
+
+tis parapano plirofories tis pernoume epissis using the btn:[Service Info] button
+
+.connect status info
+image::venus:join-connect-status-info.png[connect status info,700,float=center]
 
 
