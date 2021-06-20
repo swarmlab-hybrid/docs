@@ -38,10 +38,20 @@ image::venus:volume-info.png[Volume create info,700,float=center]
 
 gia na vreis to directory pou echeis kanei share  we use the image:venus:volume-info-icon.png[] icon
 
-pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volume pou theeis na kaneis delete
+pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volume pou theeis na kaneis info
 
 .volume directory info
 image::venus:volume-create-info.png[Volume dir info,700,float=center]
+
+o katalogos p.x. sto paradeigma tha einai tou styl
+
+[source,bash]
+----
+/data/appl/ok/swarmlab-venus/src-local/hybrid/connect/dLZWqFyPxyxOL1DiJ3xCHJhi6ziLK7MJ/volumes/dLZWqFyPxyxOL1DiJ3xCHJhi6ziLK7MJ_myvolume
+----
+
+se afto mporeite na valete oti archeio thelete na diamoirasete
+
 
 === delete
 
