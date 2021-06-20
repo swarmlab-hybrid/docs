@@ -18,10 +18,16 @@ image::venus:volume-main.png[Volume menou,750,float=center]
 
 === you shared volumes
 
+on the left mporoume na doume volumes pou kanete eseis share
 .volume you share
 image::venus:volume-left.png[Volume menou,700,float=center]
 
+
 === shared from others
+
+sta dexia mporoume na doume voumes pou ginonte shared apo sindedemneous users
+
+kai ep[issi sto kato meros se poia apo afta iste sindedemnos idi
 
 .volume from others
 image::venus:volume-right.png[Volume others,700,float=center]
