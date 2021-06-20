@@ -12,7 +12,9 @@ This is the area where you will quide you to manage the user access
 
 == show networks
 
-To request more info about the *network* we use the info icon
+To request more info about the *network* we use the 
+image:hybrid:more-network.png[Network]
+icon
 
 .network info
 image::venus:manage-deploy-more.png[network info,700,float=center]
