@@ -1,0 +1,84 @@
+= Volume
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+
+
+This is the area where you will quide you to connect volumes
+
+== connect
+
+shared volumes apo users info tha paroume we using the  image:venus:volume-more.png[] icon
+
+.connect volume
+image::venus:volume-shared-info.png[Volume shared info,700,float=center]
+
+TIP: oi plirofories emfanisonte gia to diktyo pou tha epilexoume (sto top-left menou) kai oxi gia ola ta diktya.
+
+=== connect
+
+gia na kaneis volume connect we using the  image:hybrid:more.png[] icon 
+
+tha emfanistei to akoloutho menou
+
+.connect volume
+image::venus:volume-connect.png[Volume connect,700,float=center]
+
+kanoume apla click stp btn:[Connect_to] button 
+
+meta apo afto to volume pou ekanes connect tha emfanistei  sto menou *My Connections on Shared volumes*
+
+TIP: echoume kanei connect ston server me afti tin kinissi kai ochi ston katalogo
+
+=== Connect info
+
+plirofories sxetika me to connect pou kaname vlepoume sto menou 
+
+.volume info
+image::venus:volume-connect-info.png[Volume connect info,700,float=center]
+
+TIP: sto icon image::venus:volume-mount-no.png[]  vlepoume ean exoume kanei mount ston katalogo i oxi
+
+
+=== mount
+
+image::venus:volume-mount-no.png[]
+
+=== umount
+
+image::venus:volume-mount-yes.png[]
+
+
+=== mount info
+
+gia na vreis to directory pou echeis kanei share  we use the image:venus:volume-info-icon.png[] icon
+
+pou mporeis na vreis sto menou *My Connections on Shared volumes* kai dipla sto antisticho volume pou theeis na kaneis info
+
+o katalogos p.x. sto paradeigma tha einai tou styl
+
+[source,bash]
+----
+/data/appl/ok/swarmlab-venus/src-local/hybrid/connect/dLZWqFyPxyxOL1DiJ3xCHJhi6ziLK7MJ/volumes_client/dLZWqFyPxyxOL1DiJ3xCHJhi6ziLK7MJ_volumename
+----
+
+se afto mporeite na valete oti archeio thelete na diamoirasete
+
+TIP: to parapano doulevi mono otan vlepoum this icon image::venus:volume-mount-yes.png[] 
+
+== disconnect
+
+gia na kaneis disconnect we using the  image:venus:volume-delete-icon.png[] icon 
+
+pou mporeis na vreis sto menou *My Connections on Shared volumes* kai dipla sto antisticho volume pou theeis na kaneis info
+
+
+TIP: me to disconnect svinete i sindessi pou ekanes share kai ochi ta dedomena pou echeis sto antisticho directory
+
+
+
+
