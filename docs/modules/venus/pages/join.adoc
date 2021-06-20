@@ -47,3 +47,8 @@ meta apo afto  mporeite na chrissimopiisete to btn:[Start Network] button
 
 fysika kai prepei prota to network na einai up and running
 
+sto column *join* mporeite na deite an iste sindedemnoi idi sto diktyo i ochi 
+
+TIP: mporeite na sindethite se osa diktya thelete
+
+
