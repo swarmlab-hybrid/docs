@@ -60,12 +60,13 @@ me to btn:[info] mporoume na doume plirofories sxetika me to app pou kaname shar
 
 sto paradeigma edo p.x. gia na sindethoume sto jupyter prepei emeis na trexoume ston browser to link pou vlepoume sto *URL to connect to Jupyter*
 
+
+TIP: mporoume na doume oti emeis chrissimopioume tin address tou eth0 pou einai sindedemnei me to pc mas
+
 [source,bash]
 ----
 http://172.26.0.2:8888/lab?token=819cfaa82577cc7ec49fec0a39f57bc12e37883119237cf3
 ----
-
-TIP: mporoume na doume oti emeis chrissimopioume tin address tou eth0 pou einai sindedemnei me to pc mas
 
 eno stous stous users prepei na stiloume to linkl pou vlepoume  sto *URL to send to participants*
 
