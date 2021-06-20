@@ -19,7 +19,6 @@ image::venus:volume-shared-info.png[Volume shared info,700,float=center]
 
 TIP: oi plirofories emfanisonte gia to diktyo pou tha epilexoume (sto top-left menou) kai oxi gia ola ta diktya.
 
-=== connect
 
 gia na kaneis volume connect we using the  image:hybrid:more.png[] icon 
 
