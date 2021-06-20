@@ -64,7 +64,7 @@ The *container* option containerize the containers networking
 ==== host
 
 
-image:venus:host-connecion.png[host connect,300,float=right]
+image:venus:host-connection.png[host connect,300,float=right]
 
 The host option is used to make the interface look like they are running on the host itself. It allows the Virtual Network Interface greater network access than it can normally get.
 
@@ -76,7 +76,7 @@ TIP: With this option you *can* access the other participants in the network and
 ==== container
 
 
-image:venus:container-connecion.png[container connect,300,float=right]
+image:venus:container-connection.png[container connect,300,float=right]
 
 A container option is used to isolate the services from different container and the host itself
 
