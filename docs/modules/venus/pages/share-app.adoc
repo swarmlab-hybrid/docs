@@ -64,5 +64,14 @@ sto paradeigma edo p.x. gia na sindethoume sto jupyter prepei emeis na trexoume 
 eno stous stous users prepei na stiloume to linkl pou vlepoume  sto *URL to send to participants*
 
 
+== undo share
+
+To undo more the share pou kaname we use the btn:[Default] button
+
+.share default info
+image::venus:share-info-default.png[share default info,350,float=right]
+
+TIP: mporoume na doume to status me to btn:[shared], otan den einai shared emfanisete to button btn:[network]
+
 
 
