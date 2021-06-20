@@ -34,3 +34,20 @@ meta apo afto to volume pou ekanes share tha emfanistei sto menou *My shared Vol
 .volume info
 image::venus:volume-info.png[Volume create info,700,float=center]
 
+=== Directory info
+
+gia na vreis to directory pou echeis kanei share  we use the btn:[info] icon
+
+.volume directory info
+image::venus:volume-create-info.png[Volume dir info,700,float=center]
+
+=== delete
+
+gia na kaneis delete we using the  image:venus:volume-delete-icon.png[] icon 
+
+pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volume pou theeis na kaneis delete
+
+.volume info
+image::venus:volume-info.png[Volume create info,700,float=center]
+
+TIP: me to delete svinete i sindessi pou ekanes share kai ochi ta dedomena pou echeis sto antisticho directory
