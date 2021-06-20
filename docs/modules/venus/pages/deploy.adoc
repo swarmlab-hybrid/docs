@@ -1,0 +1,23 @@
+= Deploy
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+
+
+This is the area where you will quide you to Build the network  pou theleis
+
+== Build
+
+You can easily browse throught the available *labrooms* in the list using the search bar at the top.
+
+.browsing-labroom
+image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
+
+== Manage
+
+After we have located the desired *labroom* we can *Download* it by using the cloud 
+image:hybrid:cloud_icon_down.png[Download] icon.
+
