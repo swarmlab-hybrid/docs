@@ -1,5 +1,5 @@
 * xref:overview-hybrid.adoc[Hybrid]
-** xref:overview.adoc[Deploy/Local]
+** xref:overview.adoc[Private/Local]
 *** xref:start-labroom.adoc[Labroom]
 *** xref:start-storage.adoc[Storage]
 *** xref:start-microservices.adoc[Microservices]
