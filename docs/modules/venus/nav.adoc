@@ -3,3 +3,6 @@
 *** xref:deploy.adoc[Deploy]
 *** xref:join.adoc[Join]
 *** xref:user.adoc[User]
+** xref:overview-share.adoc[Share]
+*** xref:share-app.adoc[App]
+*** xref:share-volume.adoc[Volume]
