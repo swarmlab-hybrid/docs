@@ -5,6 +5,7 @@ Swarmlab
 :!example-caption:
 :!table-caption:
 :page-pagination:
+:experimental:
 
 
 This is the area where you will quide you to Build the network  pou theleis
@@ -37,4 +38,23 @@ A network must have a start and end time
 
 .manage networks
 image::venus:manage-deploy.png[Deploy networks,700,float=center]
+
+=== Network info
+
+To request more info about the *network* we use the info icon
+
+.network info
+image::venus:manage-deploy-more.png[network info,700,float=center]
+
+=== Remove Networks
+
+We can *remove* the network by using the btn:[Remove Network] button 
+
+=== Manage users
+
+We can *add*/*remove* users by using the btn:[Show users] button 
+
+.network user
+image::venus:manage-deploy-showusers.png[manage user,700,float=center]
+
 
