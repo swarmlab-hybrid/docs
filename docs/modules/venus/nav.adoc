@@ -1,2 +1,4 @@
 * xref:overview.adoc[Venus]
-** xref:start-venus.adoc[Create Network]
+** xref:overview-network.adoc[Network]
+*** xref:deploy-network.adoc[Deploy]
+*** xref:deploy-network.adoc[Join]
