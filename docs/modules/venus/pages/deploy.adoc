@@ -9,12 +9,10 @@ Swarmlab
 
 This is the area where you will quide you to Build the network  pou theleis
 
-== Build
+== Deploy
 
-You can easily browse throught the available *labrooms* in the list using the search bar at the top.
-
-.browsing-labroom
-image::hybrid:browsing-labroom.png[Browsing labrooms,700,float=center]
+.deploy networks
+image::venus:deploy.png[Deploy networks,700,float=center]
 
 == Manage
 
