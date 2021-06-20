@@ -63,3 +63,17 @@ pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volu
 image::venus:volume-info.png[Volume create info,700,float=center]
 
 TIP: me to delete svinete i sindessi pou ekanes share kai ochi ta dedomena pou echeis sto antisticho directory
+
+
+== shared volume info
+
+me to pou tha kaneis shared opos perigrafete parapano tha emfanistei sto menou *Shared volumes*
+
+.shared volume info
+image::venus:volume-shared-info.png[Volume shared info,700,float=center]
+
+
+TIP: stous users tha emfanistei antisticha i idia pliroforia. me tou pou tha epilexoun fysika na doun tis sxetikes plriofories tou diktyou
+
+
+
