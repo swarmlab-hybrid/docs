@@ -32,7 +32,7 @@ kanoume apla click stp btn:[Connect_to] button
 
 meta apo afto to volume pou ekanes connect tha emfanistei  sto menou *My Connections on Shared volumes*
 
-TIP: echoume kanei connect ston server me afti tin kinissi kai ochi ston katalogo
+WARNING: echoume kanei connect ston server me afti tin kinissi kai ochi ston katalogo
 
 === Connect info
 
@@ -41,16 +41,20 @@ plirofories sxetika me to connect pou kaname vlepoume sto menou
 .volume info
 image::venus:volume-connect-info.png[Volume connect info,700,float=center]
 
-TIP: sto icon image::venus:volume-mount-no.png[]  vlepoume ean exoume kanei mount ston katalogo i oxi
+TIP: sto icon image:venus:volume-mount-no.png[]  vlepoume ean exoume kanei mount ston katalogo i oxi
 
 
 === mount
 
-image::venus:volume-mount-no.png[]
+we using the 
+image:venus:volume-mount-no.png[]
+icon 
 
 === umount
 
+we using the 
 image::venus:volume-mount-yes.png[]
+icon
 
 
 === mount info
