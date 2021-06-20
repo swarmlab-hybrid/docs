@@ -36,7 +36,9 @@ image::venus:volume-info.png[Volume create info,700,float=center]
 
 === Directory info
 
-gia na vreis to directory pou echeis kanei share  we use the btn:[info] icon
+gia na vreis to directory pou echeis kanei share  we use the image:venus:volume-info-icon.png[] icon
+
+pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volume pou theeis na kaneis delete
 
 .volume directory info
 image::venus:volume-create-info.png[Volume dir info,700,float=center]
