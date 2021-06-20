@@ -59,6 +59,6 @@ We can *add*/*remove* users by using the btn:[Show users] button
 .network user
 image::venus:manage-deploy-showusers.png[manage user,700,float=center]
 
-and then the buttons above to add or remove the certain user whe want
 
 
+and then the buttons above to add or remove the certain user whe want using the btn[action] button
