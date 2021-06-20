@@ -22,9 +22,9 @@ This is the area where you will find senario and  *Quickstart* gia to jurnay sto
 
 as xekinisoume loipon
 
-=== start jupyter
+=== start service
 === start storage 
-=== start linux
+=== start labroom
 
 
 == Senario 2
