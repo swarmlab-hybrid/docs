@@ -31,9 +31,7 @@ image::venus:join-info.png[network info,700,float=center]
 
 To request network access we use the btn:[Request Access] button
 
-To button emfanisete mono otam den to echeis kanei idi
-
-pou simeni oti ama to kaneis mia fora den tha emfanistei 
+TIP: To button emfanisete mono otam den to echeis kanei idi pou simeni oti ama to kaneis mia fora den tha emfanistei 
 
 
 == Connect
