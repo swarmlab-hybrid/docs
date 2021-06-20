@@ -1,4 +1,4 @@
-= hybrid
+= Private/Local
 Swarmlab
 :idprefix:
 :idseparator: -
@@ -6,12 +6,12 @@ Swarmlab
 :!table-caption:
 :page-pagination:
 
-This is the area where you will find the available *labrooms* and join the desired one.
+This is the area where you will find the available *Instanches* and running the desired one.
 
+== Labrooms
 
-== Private/Local
-== Instanches
-== Hybrid/Public
-== Builders
+== Storage
+
+== MicroServices
 
 
