@@ -33,3 +33,4 @@ kai ep[issi sto kato meros se poia apo afta iste sindedemnos idi
 .volume from others
 image::venus:volume-right.png[Volume others,700,float=center]
 
+TIP: oi plirofories emfanisonte gia to diktyo pou tha epilexoume (sto top-left menou) kai oxi gia ola ta diktya
