@@ -15,3 +15,50 @@ This is the area where you will quide you to share you app
 .share app
 image::venus:share.png[share app,700,float=center]
 
+sto menou vlepoume ta apps (Instanches) have running prin messo hybrid
+
+edo loipon mporoume na epilexoume poia apo afta theloume na kanoume share
+
+=== app info 
+
+To request more info about the *app* we use the
+more
+image:hybrid:more.png[Info]
+ icon
+
+.browsing app info
+image::venus:share-info.png[app info,700,float=center]
+
+=== share app
+
+To share you app we use the btn:[share]
+ button
+
+.browsing network 
+image::venus:share-info.png[browse network,700,float=center]
+
+kato apo to btn:[share] emfanisonte ta diktya pou imaste sindedemnoi
+
+epilegoume to diktyo ekeiono pou theloume gia na diamirasoume to app
+
+=== share status
+
+.share status 
+image::venus:share-networks-info.png[browse network,350,float=right]
+
+TIP: mporoume na doume to status me to btn:[shared], otan den einai shared emfanisete to button btn:[network]
+
+== share info
+
+.share info
+image::venus:share-app-info.png[share info,350,float=right]
+
+me to btn:[info] mporoume na doume plirofories sxetika me to app pou kaname share
+
+* to url p.x. pou mporoume na diamirasoume stous users
+* to url pou mporoume emeis i idioi na sindethounme
+
+
+
+
+
