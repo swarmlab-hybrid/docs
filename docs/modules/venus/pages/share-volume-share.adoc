@@ -29,6 +29,8 @@ image::venus:volume-create.png[Volume create,700,float=center]
 
 dose onoma kai rights kai pata to btn:[Create Volume] button 
 
-meta apo afto tha emfanistei sto menou *My shared Volumes*
+meta apo afto to volume pou ekanes share tha emfanistei sto menou *My shared Volumes*
 
+.volume info
+image::venus:volume-info.png[Volume create info,700,float=center]
 
