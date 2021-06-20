@@ -6,3 +6,5 @@
 ** xref:overview-share.adoc[Share]
 *** xref:share-app.adoc[App]
 *** xref:share-volume.adoc[Volume]
+**** xref:share-volume-share.adoc[share]
+**** xref:share-volume-connect.adoc[Connect]
