@@ -19,6 +19,7 @@ image::venus:volume-main.png[Volume menou,750,float=center]
 === you shared volumes
 
 on the left mporoume na doume volumes pou kanete eseis share
+
 .volume you share
 image::venus:volume-left.png[Volume menou,700,float=center]
 
