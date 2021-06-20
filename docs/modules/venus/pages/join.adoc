@@ -19,8 +19,10 @@ image::venus:join.png[Browsing network,700,float=center]
 
 === info 
 
-To request more info about the *labroom* we use the info icon
-image:venus:info_icon.png[Info]
+To request more info about the *network* we use the
+more
+image:venus:more.png[Info]
+ icon
 
 .browsing network
 image::venus:join-info.png[network info,700,float=center]
