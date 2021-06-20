@@ -14,8 +14,27 @@ This is the area where you will quide you to Build the network  pou theleis
 .deploy networks
 image::venus:deploy.png[Deploy networks,700,float=center]
 
+We can *create* the network by using the btn:[Create Network] button 
+
+=== StackName 
+
+To start, we need to have a Network Stack Name 
+
+This will bring up all the services, volumes, networks and everything else
+in an isolated environment. 
+
+=== Name 
+
+A name or something that gives  the subject of your project. 
+
+=== Start and End Time
+
+A network must have a start and end time
+
+
+
 == Manage
 
-.deploy networks
+.manage networks
 image::venus:manage-deploy.png[Deploy networks,700,float=center]
 
