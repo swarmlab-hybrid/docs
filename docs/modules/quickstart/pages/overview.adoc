@@ -11,6 +11,36 @@ This is the area where you will find senario and  *Quickstart* gia to jurnay sto
 
 == Senario 1
 
+* you are a *teacher* kai theleis na etoimaseis ena ergastirio 
+** na dimiourgissis askissis 
+** na to diamoiraseis stous foitites
+* you are a *student* kai theleis na doulepsis pano se ena project
+* you are a *Developer* kai theleis na dokimaseis kati
+** na kaneis POC
+* you are a *user* kai theleis na dokimaseis pramata 
+** na deis paradeigmata alla den theleis na kaneis polles allages sto normal systima sou
 
-you ar a teacher kai theleis 
+as xekinisoume loipon
+
+=== start jupyter
+=== start storage 
+=== start linux
+
+
+== Senario 2
+
+echeis "trexei" ta services pou perigrafonte sto senario 1 kai theleis na kaneis colaboration me allous
+
+* os teacher theleis na diamoiraseis to ergastirio pou etoimases kai theleis na doulepseis kata tin diarkeia tou semester klp
+* os developer theleis na doulepsis me tous sunadelfou sou
+* is student thelete na doulepsete masi os group
+
+as xekinisoume loipon
+
+=== create network
+=== invite
+=== share
+==== app
+==== volume
+
 
