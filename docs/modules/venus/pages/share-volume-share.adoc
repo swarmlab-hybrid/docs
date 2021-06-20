@@ -15,9 +15,6 @@ This is the area where you will quide you to share volumes
 .share volume
 image::venus:volume-left.png[Volume menou,700,float=center]
 
-== shared volumes
-
-
 === create
 
 gia na kaneis volume share we using the  image:venus:volume-share-icon.png[] icon 
@@ -52,7 +49,6 @@ o katalogos p.x. sto paradeigma tha einai tou styl
 
 se afto mporeite na valete oti archeio thelete na diamoirasete
 
-
 === delete
 
 gia na kaneis delete we using the  image:venus:volume-delete-icon.png[] icon 
@@ -64,14 +60,12 @@ image::venus:volume-info.png[Volume create info,700,float=center]
 
 TIP: me to delete svinete i sindessi pou ekanes share kai ochi ta dedomena pou echeis sto antisticho directory
 
-
 == shared volume info
 
 me to pou tha kaneis shared opos perigrafete parapano tha emfanistei sto menou *Shared volumes*
 
 .shared volume info
 image::venus:volume-shared-info.png[Volume shared info,700,float=center]
-
 
 TIP: stous users tha emfanistei antisticha i idia pliroforia. me tou pou tha epilexoun fysika na doun tis sxetikes plriofories tou diktyou
 
