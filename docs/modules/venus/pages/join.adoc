@@ -40,7 +40,10 @@ pou simeni oti ama to kaneis mia fora den tha emfanistei
 
 image::venus:join-status.png[network connect,300,float=right]
 
-afou kanete request kai sas dechti o owner tha emanistoun ta icons dipla sto network pou thelete 
+afou kanete request kai sas dechti o owner tha emanistoun accept  icons dipla sto network pou thelete kai stin antistichi stili
+
 
 meta apo afto  mporeite na chrissimopiisete to btn:[Start Network] button
+
+fysika kai prepei prota to network na einai up and running
 
