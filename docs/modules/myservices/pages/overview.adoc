@@ -1,19 +1,24 @@
-= Module Deploy - Local 
+= MyServices
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
   
+This is the area where you will quide you to use  *Services*
 
-== Start Labroom
+== Labrooms
 
-This page is start
+Services organised in a network with scale dynatotita
 
-== Scale
 
-This page is scale
+== Storage
 
-=== Connect
+Storage to run 
 
-This page is connect
+After run can you attach network to it
 
-=== Stop 
+=== Microservices
 
-This page is stop
-
+diverse microservices pou mporeis na trexeis kai na ta kaneis attache se storage i labrooms i opou allou theleis
