@@ -1,0 +1,129 @@
+= Mongo
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use storage *Mongo*
+
+== Default Configuration
+
+.mongo network
+image::replica-set-primary-with-two-secondaries.bakedsvg.png[linux network,700,float=center]
+
+More info here: https://docs.mongodb.com/manual/replication[mongo replication]
+
+=== Working Directory
+
+[source,bash]
+----
+/project
+----
+
+=== Default user
+
+[source,bash]
+----
+docker
+----
+
+=== Default password
+
+[source,bash]
+----
+docker
+----
+
+=== Default password4root
+
+[source,bash]
+----
+pass
+----
+
+== Directory Map
+
+You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
+
+== Logs
+
+You can find it in *Hybrid*:  menu:Instances[More > Logs] 
+
+== Connect
+
+TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal and Run] 
+
+=== Connect via SSH
+
+[source,bash]
+----
+ssh docker@[IP]
+----
+
+=== Connect via exec
+
+Open a terminal and Run:
+
+[source,bash]
+----
+docker exec -it -udocker hybrid-nodevuejs_master_1 /bin/bash
+----
+
+
+== Find lab workers
+
+NOTE: Commands inside container
+
+[source,bash]
+----
+ifconfig
+
+nmap -sP 172.130.0.0/24 # eth0 ip
+----
+
+or
+
+[source,bash]
+----
+/project/bin/swarmlab-nmap
+----
+
+== Create a Project
+
+NOTE: Commands inside container
+
+Vue CLI Documentation
+https://cli.vuejs.org/guide/creating-a-project.html#vue-create
+
+.Creating a Project
+
+[source,bash]
+----
+vue create hello-world
+----
+
+=== Run it!
+
+[source,bash]
+----
+npm run serve
+----
+
+=== Open it!
+
+[source,bash]
+----
+http://IP:8080 # IP= eth0
+----
+
+=== Find Published ports 
+
+Info in *Hybrid*:  menu:Instances[More > Ports] 
+
+
+
+
+

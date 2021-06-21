@@ -5,7 +5,7 @@
 *** xref:nodevuejs.adoc[Node+Vue]
 
 ** xref:overview-storage.adoc[Storage]
-*** xref:mongo.adoc[Mongo]
+*** xref:storage-mongo-replica.adoc[Mongo replica]
 
 ** xref:overview-microservices.adoc[Microservices]
 *** xref:jupyter.adoc[Jupyter]
