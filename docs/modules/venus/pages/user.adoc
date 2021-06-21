@@ -28,4 +28,13 @@ image::venus:manage-deploy-showusers.png[manage user,700,float=center]
 
 and then the buttons above to add or remove the certain user whe want using the btn:[action] button
 
+== Video
+
+=== Manage users
+
+****
+TIP: Learn how to manage users
+
+video::565613215[vimeo]
+****
 

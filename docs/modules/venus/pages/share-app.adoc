@@ -83,4 +83,13 @@ image::venus:share-info-default.png[share default info,350,float=right]
 TIP: mporoume na doume to status me to btn:[shared], otan den einai shared emfanisete to button btn:[network]
 
 
+== Video
+
+=== Share app
+
+****
+TIP: Learn how to share a app
+
+video::565627934[vimeo]
+****
 
