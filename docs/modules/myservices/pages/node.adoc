@@ -11,8 +11,6 @@ This is the area where you will quide you to use microservice *Node*
 
 == Default Configuration
 
-.Linux network
-image::swarmlab-network.png[linux network,700,float=center]
 
 === Working Directory
 
@@ -50,7 +48,7 @@ Open a terminal and Run:
 
 [source,bash]
 ----
-docker exec -it -udocker hybrid-nodevuejs_master_1 /bin/bash
+docker exec -it microservice-nodejs_masterservice_1 /bin/sh
 ----
 
 
