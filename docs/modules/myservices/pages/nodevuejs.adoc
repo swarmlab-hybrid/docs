@@ -127,5 +127,24 @@ Info in *Hybrid*:  menu:Instances[More > Ports]
 
 
 
+== Video
+
+=== Start Vue
+
+****
+TIP: Learn how to start Vue
+
+video::565804352[vimeo]
+****
+
+=== Stop Vue
+
+****
+TIP: Learn how to stop Vue
+
+video::565807431[vimeo]
+****
+
+
 
 
