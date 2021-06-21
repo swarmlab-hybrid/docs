@@ -67,5 +67,6 @@ and then the buttons above to add or remove the certain user whe want using the 
 
 ****
 TIP: Learn how to create a network
+
 video::565597681[vimeo]
 ****
