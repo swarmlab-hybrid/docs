@@ -1,0 +1,113 @@
+= MPI
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use labroom *MPI*
+
+== Default Configuration
+
+.mpi network
+image::swarmlab-network.png[mpi network,700,float=center]
+
+=== Working Directory
+
+[source,bash]
+----
+/project
+----
+
+=== Default user
+
+[source,bash]
+----
+docker
+----
+
+=== Default password
+
+[source,bash]
+----
+docker
+----
+
+=== Default password4root
+
+[source,bash]
+----
+pass
+----
+
+== Find lab workers
+
+[source,bash]
+----
+ifconfig
+
+nmap -sP 172.130.0.0/24 # eth0 ip
+----
+
+or
+
+[source,bash]
+----
+/project/bin/swarmlab-nmap
+----
+
+== connect to workers
+
+[source,bash]
+----
+ssh docker@[IP]
+----
+
+== Create hosts file
+
+[source,bash]
+----
+/project/bin/swarmlab-nmap > /project/hosts
+----
+
+== Compile
+
+[source,bash]
+----
+mpicc -o /project/mpi_hello_world examples/mpi_hello_world.c
+----
+
+== run the MPI hello world program
+
+[source,bash]
+----
+mpirun -n 10 -f /project/hosts /project/mpi_hello_world
+----
+
+NOTE: copy files to all clients
+
+[source,bash]
+----
+while read -r line; 
+do 
+scp /project/file docker@$line:/some_dir/file
+done < /project/hosts
+----
+
+== MORE INFO
+
+See examples directory
+
+
+[source,bash]
+----
+cd examples
+make mpi_hello_world
+make example ex=squares
+...
+----
+
+
+
