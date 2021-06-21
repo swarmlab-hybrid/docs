@@ -28,6 +28,22 @@ image::swarmlab-network.png[linux network,700,float=center]
 root
 ----
 
+==  Unprivileged user
+
+=== user 
+
+[source,bash]
+----
+jovyan (uid=1000, configurable, see options) in group users (gid=100) with ownership over the 
+----
+
+=== home
+
+[source,bash]
+----
+/home/jovyan and /opt/conda paths
+----
+
 == Directory Map 
 
 You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
@@ -53,6 +69,7 @@ Open a terminal and Run:
 docker exec -it microservice-jupyter26_masterservice_1 /bin/sh
 ----
 
+
 === Connect via WEB
 
 You can find it in *Hybrid*:  menu:Instances[More > Web] 
@@ -60,17 +77,11 @@ You can find it in *Hybrid*:  menu:Instances[More > Web]
 
 == Jupyter Setup
 
-* Minimally-functional Jupyter Notebook server (e.g., no LaTeX support for saving notebooks as PDFs)
 * Miniforge Python 3.x in /opt/conda with two package managers
 * conda: cross-platform, language-agnostic binary package manager
 * mamba: reimplementation of the conda package manager in C++
 * notebook, jupyterhub and jupyterlab packages
-* No preinstalled scientific computing packages
-* Unprivileged user jovyan (uid=1000, configurable, see options) in group users (gid=100) with ownership over the /home/jovyan and /opt/conda paths
 * tini as the container entrypoint and a start-notebook.sh script as the default command
-* A start-singleuser.sh script useful for launching containers in JupyterHub
-* A start.sh script useful for running alternative commands in the container (e.g. ipython, jupyter kernelgateway, jupyter lab)
-* Options for a self-signed HTTPS certificate and passwordless sudo
 * TeX Live for notebook document conversion
 * git, vi (actually vim-tiny), nano (actually nano-tiny), tzdata, and unzip
 * altair, beautifulsoup4, bokeh, bottleneck, cloudpickle, conda-forge::blas=*=openblas, cython, dask, dill, h5py, matplotlib-base, numba, numexpr, pandas, patsy, protobuf, pytables, scikit-image, scikit-learn, scipy, seaborn, sqlalchemy, statsmodel, sympy, widgetsnbextension, xlrd packages
