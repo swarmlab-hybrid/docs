@@ -42,6 +42,8 @@ docker
 pass
 ----
 
+== Connect
+
 === Connect via SSH
 
 [source,bash]
