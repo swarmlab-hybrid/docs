@@ -2,6 +2,7 @@
 ** xref:overview-labrooms.adoc[Labrooms]
 *** xref:linux.adoc[Linux]
 *** xref:mpi.adoc[MPI]
+*** xref:nodevuejs.adoc[Node+Vue]
 
 ** xref:overview-storage.adoc[Storage]
 *** xref:mongo.adoc[Mongo]
