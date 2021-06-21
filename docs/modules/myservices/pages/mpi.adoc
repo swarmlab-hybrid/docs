@@ -58,7 +58,7 @@ or
 /project/bin/swarmlab-nmap
 ----
 
-== connect to workers
+=== connect to 
 
 [source,bash]
 ----
@@ -98,7 +98,7 @@ scp /project/file docker@$line:/some_dir/file
 done < /project/hosts
 ----
 
-== MORE INFO
+== MORE Examples
 
 See examples directory
 
