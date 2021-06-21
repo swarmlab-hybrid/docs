@@ -44,11 +44,15 @@ pass
 
 == Directory Map
 
-You can find it in *Hybrid*:  menu:Instances[More > Directory Maps] 
+You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
+
+== Logs
+
+You can find it in *Hybrid*:  menu:Instances[More > Logs] 
 
 == Connect
 
-TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect] 
+TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal and Run] 
 
 === Connect via SSH
 
