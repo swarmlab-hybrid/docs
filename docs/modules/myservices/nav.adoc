@@ -7,5 +7,5 @@
 ** xref:overview-storage.adoc[Storage]
 *** xref:storage-mongo-replica.adoc[Mongo replica]
 
-** xref:overview-microservices.adoc[Microservices]
+** xref:overview-services.adoc[Microservices]
 *** xref:jupyter.adoc[Jupyter]
