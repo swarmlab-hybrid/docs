@@ -63,10 +63,14 @@ and then the buttons above to add or remove the certain user whe want using the 
 
 == Video
 
-=== Start Deploy
+=== Create Network
 
 ****
 TIP: Learn how to create a network
 
 video::565597681[vimeo]
+
+TIP: Learn how to manage users
+
+video::565613215[vimeo]
 ****

@@ -100,3 +100,12 @@ tis parapano plirofories tis pernoume epissis using the btn:[Service Info] butto
 image::venus:join-connect-status-info.png[connect status info,700,float=center]
 
 
+== Video
+
+=== Join Network
+
+****
+TIP: Learn how to join a network
+
+video::565608054[vimeo]
+****
