@@ -102,10 +102,18 @@ image::venus:join-connect-status-info.png[connect status info,700,float=center]
 
 == Video
 
+=== Request Access
+
+****
+TIP: Learn how to request access
+
+video::565608054[vimeo]
+****
+
 === Join Network
 
 ****
 TIP: Learn how to join a network
 
-video::565608054[vimeo]
+video::565620579[vimeo]
 ****
