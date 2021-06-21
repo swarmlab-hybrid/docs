@@ -65,21 +65,23 @@ or
 ssh docker@[IP]
 ----
 
-== Create hosts file
+== HelloWorld Example
+
+=== Create hosts file
 
 [source,bash]
 ----
 /project/bin/swarmlab-nmap > /project/hosts
 ----
 
-== Compile
+=== Compile
 
 [source,bash]
 ----
 mpicc -o /project/mpi_hello_world examples/mpi_hello_world.c
 ----
 
-== run the MPI hello world program
+=== run the HelloWorld
 
 [source,bash]
 ----
