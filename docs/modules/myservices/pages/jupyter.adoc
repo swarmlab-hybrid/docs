@@ -91,6 +91,23 @@ You can find it in *Hybrid*:  menu:Instances[More > Web]
 * Facets for visualizing machine learning datasets
 
 
+== Video
+
+=== Start Jupyter
+
+****
+TIP: Learn how to start Jupyter
+
+video::565791748[vimeo]
+****
+
+=== Stop Jupyter
+
+****
+TIP: Learn how to stop Jupyter
+
+video::565796816[vimeo]
+****
 
 
 
