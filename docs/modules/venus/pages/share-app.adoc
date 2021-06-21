@@ -101,3 +101,10 @@ TIP: Learn how to  revoke access to a shared
 video::565635682[vimeo]
 ****
 
+===  Find shared info 
+
+****
+TIP: Learn how to find info about a shared app
+
+video::565639752[vimeo]
+****
