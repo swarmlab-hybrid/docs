@@ -42,6 +42,24 @@ docker
 pass
 ----
 
+=== Connect via SSH
+
+[source,bash]
+----
+ssh docker@[IP]
+----
+
+=== Connect via exec
+
+Open a terminal and Run:
+
+[source,bash]
+----
+docker exec -it -udocker hybrid-mpi_master_1 /bin/bash
+----
+
+TIP: More info in *Hybrid*  menu:Instances[More > Connect] 
+
 == Find lab workers
 
 [source,bash]
@@ -58,12 +76,7 @@ or
 /project/bin/swarmlab-nmap
 ----
 
-=== connect to 
 
-[source,bash]
-----
-ssh docker@[IP]
-----
 
 == HelloWorld Example
 
