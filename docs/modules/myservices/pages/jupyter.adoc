@@ -1,0 +1,63 @@
+= Jupyter
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use service *Jupyter*
+
+== Default Configuration
+
+.Linux network
+image::swarmlab-network.png[linux network,700,float=center]
+
+=== Working Directory (via CLI)
+
+[source,bash]
+----
+/
+----
+
+=== Default user (via CLI)
+
+[source,bash]
+----
+root
+----
+
+== Directory Map 
+
+You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
+
+== Ports
+
+You can find it in *Hybrid*:  menu:Instances[More > Ports] 
+
+== Logs
+
+You can find it in *Hybrid*:  menu:Instances[More > Logs] 
+
+== Connect
+
+TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal and Run] 
+
+=== Connect via exec
+
+Open a terminal and Run:
+
+[source,bash]
+----
+docker exec -it microservice-jupyter26_masterservice_1 /bin/sh
+----
+
+=== Connect via WEB
+
+You can find it in *Hybrid*:  menu:Instances[More > Web] 
+
+
+
+
+
