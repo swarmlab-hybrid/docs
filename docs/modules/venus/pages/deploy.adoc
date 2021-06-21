@@ -69,7 +69,11 @@ and then the buttons above to add or remove the certain user whe want using the 
 TIP: Learn how to create a network
 
 video::565597681[vimeo]
+****
 
+=== Manage users
+
+****
 TIP: Learn how to manage users
 
 video::565613215[vimeo]
