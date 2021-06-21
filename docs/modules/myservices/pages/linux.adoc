@@ -1,0 +1,162 @@
+= Linux
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use labroom *Linux*
+
+== Default Configuration
+
+.Linux network
+image::swarmlab-network.png[linux network,700,float=center]
+
+=== Working Directory
+
+[source,bash]
+----
+/project
+----
+
+=== Default user
+
+[source,bash]
+----
+docker
+----
+
+=== Default password
+
+[source,bash]
+----
+docker
+----
+
+=== Default password4root
+
+[source,bash]
+----
+pass
+----
+
+== Directory Map
+
+You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
+
+== Logs
+
+You can find it in *Hybrid*:  menu:Instances[More > Logs] 
+
+== Connect
+
+TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal and Run] 
+
+=== Connect via SSH
+
+[source,bash]
+----
+ssh docker@[IP]
+----
+
+=== Connect via exec
+
+Open a terminal and Run:
+
+[source,bash]
+----
+docker exec -it -udocker hybrid-linux_master_1 /bin/bash
+----
+
+
+== Find lab workers
+
+NOTE: Commands inside container
+
+[source,bash]
+----
+ifconfig
+
+nmap -sP 172.130.0.0/24 # eth0 ip
+----
+
+or
+
+[source,bash]
+----
+/project/bin/swarmlab-nmap
+----
+
+== Examples
+
+NOTE: Commands inside container
+
+you can find some examples in dir 
+
+*/project/courses*
+
+[source,bash]
+----
+├── fluentd
+│   ├── files
+│   │   ├── ansible.cfg
+│   │   ├── fluent.conf
+│   │   └── fluent-config-update.conf
+│   ├── fluentd-config-update.retry
+│   ├── fluentd-config-update.yml
+│   ├── fluentd-config-update.yml.sh
+│   ├── fluentd-test-mongo.retry
+│   ├── fluentd-test-mongo.yml
+│   ├── fluentd-test-mongo.yml.sh
+│   ├── fluentd.yml
+│   ├── fluentd.yml.sh
+│   ├── inventory.yml
+│   └── tmp1
+├── memory-visualization-examples
+│   ├── bin
+│   │   └── simple-array
+│   ├── LICENSE
+│   ├── Makefile
+│   ├── objects
+│   │   └── simple-array.o
+│   ├── README.md
+│   ├── sources
+│   │   └── simple-array.c
+│   └── tags
+├── mongodb-org-shell
+│   ├── files
+│   │   ├── ansible.cfg
+│   │   └── mongo-update.sh
+│   ├── inventory.yml
+│   ├── mongodb-org-shell.yml
+│   └── mongodb-org-shell.yml.sh
+├── nodeAppServer
+│   ├── app.js
+│   ├── app.js.sh
+│   ├── index.html
+│   └── package.json
+├── pipes
+│   ├── makefifo.sh
+│   ├── par-from-ch
+│   ├── par-from-ch.c
+│   ├── rf
+│   ├── rf.c
+│   ├── shell-pipe1.sh
+│   ├── shell-pipe2.sh
+│   ├── shell-pipe.sh
+│   ├── wf
+│   └── wf.c
+└── pthread
+    ├── CreationTermination
+    ├── CreationTermination1
+    ├── CreationTermination1.c
+    ├── CreationTermination1.c.sh
+    ├── CreationTermination.c
+    └── CreationTermination.c.sh
+
+...
+
+
+
