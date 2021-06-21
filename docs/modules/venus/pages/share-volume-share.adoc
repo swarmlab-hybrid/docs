@@ -80,3 +80,12 @@ TIP: Learn how to share a volume
 video::565647143[vimeo]
 ****
 
+=== Remove Shared volume
+
+****
+TIP: Learn how to remove a shared
+
+video::565659724[vimeo]
+****
+
+

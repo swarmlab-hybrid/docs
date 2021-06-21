@@ -93,5 +93,20 @@ TIP: Learn how to connect to a volume
 video::565650712[vimeo]
 ****
 
+=== Disconnect volume
+
+****
+TIP: Learn how to disconnect volume
+
+video::565657872[vimeo]
+****
+
+=== Volume info
+
+****
+TIP: Learn how to find info about the volume
+
+video::565656641[vimeo]
+****
 
 
