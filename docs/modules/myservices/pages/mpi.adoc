@@ -65,6 +65,8 @@ docker exec -it -udocker hybrid-mpi_master_1 /bin/bash
 
 == Find lab workers
 
+NOTE: Commands inside container
+
 [source,bash]
 ----
 ifconfig
@@ -82,6 +84,8 @@ or
 
 
 == HelloWorld Example
+
+NOTE: Commands inside container
 
 === Create hosts file
 
@@ -104,7 +108,7 @@ mpicc -o /project/mpi_hello_world examples/mpi_hello_world.c
 mpirun -n 10 -f /project/hosts /project/mpi_hello_world
 ----
 
-NOTE: copy files to all clients
+=== copy files to all clients
 
 [source,bash]
 ----
@@ -115,6 +119,8 @@ done < /project/hosts
 ----
 
 == MORE Examples
+
+NOTE: Commands inside container
 
 See examples directory
 
