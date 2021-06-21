@@ -93,3 +93,11 @@ TIP: Learn how to share a app
 video::565627934[vimeo]
 ****
 
+===  Revoke access to shared 
+
+****
+TIP: Learn how to  revoke access to a shared 
+
+video::565635682[vimeo]
+****
+
