@@ -14,14 +14,14 @@ This is the area where you will quide you to use service *Jupyter*
 .Linux network
 image::swarmlab-network.png[linux network,700,float=center]
 
-=== Working Directory (via CLI)
+=== Working Directory (root user)
 
 [source,bash]
 ----
 /
 ----
 
-=== Default user (via CLI)
+=== Default user (root user)
 
 [source,bash]
 ----
@@ -39,7 +39,7 @@ jovyan (uid=1000, configurable, see options) in group users (gid=100)
 
 === home
 
-ownership over the 
+user has ownership over the 
 
 [source,bash]
 ----
