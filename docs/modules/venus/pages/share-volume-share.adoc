@@ -70,4 +70,13 @@ image::venus:volume-shared-info.png[Volume shared info,700,float=center]
 TIP: stous users tha emfanistei antisticha i idia pliroforia. me tou pou tha epilexoun fysika na doun tis sxetikes plriofories tou diktyou
 
 
+== Video
+
+=== Share volume
+
+****
+TIP: Learn how to share a volume
+
+video::565647143[vimeo]
+****
 

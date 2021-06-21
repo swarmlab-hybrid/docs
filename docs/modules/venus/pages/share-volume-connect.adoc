@@ -83,5 +83,15 @@ pou mporeis na vreis sto menou *My Connections on Shared volumes* kai dipla sto 
 TIP: me to disconnect svinete i sindessi pou ekanes share kai ochi ta dedomena pou echeis sto antisticho directory
 
 
+== Video
+
+=== Connect to volume
+
+****
+TIP: Learn how to connect to a volume
+
+video::565650712[vimeo]
+****
+
 
 
