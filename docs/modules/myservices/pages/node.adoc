@@ -1,0 +1,81 @@
+= Node
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use microservice *Node*
+
+== Default Configuration
+
+.Linux network
+image::swarmlab-network.png[linux network,700,float=center]
+
+=== Working Directory
+
+[source,bash]
+----
+/
+----
+
+=== Default user
+
+[source,bash]
+----
+root
+----
+
+== Directory Map
+
+You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
+
+== Ports
+
+You can find it in *Hybrid*:  menu:Instances[More > Ports] 
+
+== Logs
+
+You can find it in *Hybrid*:  menu:Instances[More > Logs] 
+
+== Connect
+
+TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal and Run] 
+
+=== Connect via exec
+
+Open a terminal and Run:
+
+[source,bash]
+----
+docker exec -it -udocker hybrid-nodevuejs_master_1 /bin/bash
+----
+
+
+
+== Video
+
+=== Start Node
+
+****
+TIP: Learn how to start Node
+
+video::565819477[vimeo]
+****
+
+
+=== Stop Node
+
+****
+TIP: Learn how to stop Node
+
+video::565820159[vimeo]
+****
+
+
+
+
+
+

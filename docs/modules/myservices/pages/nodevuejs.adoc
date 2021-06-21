@@ -1,4 +1,4 @@
-= NodeVue
+= Node
 Swarmlab
 :idprefix:
 :idseparator: -
