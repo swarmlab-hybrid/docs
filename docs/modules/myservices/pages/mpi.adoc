@@ -46,6 +46,10 @@ pass
 
 You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
 
+== Ports
+
+You can find it in *Hybrid*:  menu:Instances[More > Ports] 
+
 == Logs
 
 You can find it in *Hybrid*:  menu:Instances[More > Logs] 
