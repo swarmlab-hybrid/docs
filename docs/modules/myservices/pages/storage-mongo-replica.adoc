@@ -34,6 +34,10 @@ root
 
 You can find it in *Hybrid*:  menu:Instances[More > Connect > Directory Maps] 
 
+== Ports
+
+You can find it in *Hybrid*:  menu:Instances[More > Ports] 
+
 == Logs
 
 You can find it in *Hybrid*:  menu:Instances[More > Logs] 
@@ -128,10 +132,9 @@ or
 
 connect and run 
 
-NOTE: Commands inside container
-
 [source,bash]
 ----
 mongo
 ----
 
+NOTE: Commands inside container
