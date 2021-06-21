@@ -99,6 +99,12 @@ tis parapano plirofories tis pernoume epissis using the btn:[Service Info] butto
 .connect status info
 image::venus:join-connect-status-info.png[connect status info,700,float=center]
 
+== Disconnect
+
+image::venus:join-connect-status.png[connect status,700,float=center]
+
+* sto parapanp image vlepoume to btn:[Leave Network] button, to opoio mporoume na to chrissimopiisoume gia na kanoume disconnect
+
 
 == Video
 
