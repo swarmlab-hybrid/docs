@@ -163,4 +163,21 @@ you can find some examples in dir
 ...
 
 
+== Video
+
+=== Start Linux
+
+****
+TIP: Learn how to start Linux
+
+video::565804352[vimeo]
+****
+
+=== Stop Linux
+
+****
+TIP: Learn how to stop Linux
+
+video::565807431[vimeo]
+****
 
