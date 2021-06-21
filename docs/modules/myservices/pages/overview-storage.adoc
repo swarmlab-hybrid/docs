@@ -1,0 +1,17 @@
+= Storage
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use  *Storage*
+
+
+== Storage
+
+Storage to run 
+
+After run can you attach network to it
+

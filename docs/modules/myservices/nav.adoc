@@ -1,5 +1,5 @@
 * xref:overview.adoc[MyServices]
-** xref:overview-labrooms.adoc[Labrooms]
+** xref:overview-labroom.adoc[Labrooms]
 *** xref:linux.adoc[Linux]
 *** xref:mpi.adoc[MPI]
 *** xref:nodevuejs.adoc[Node+Vue]

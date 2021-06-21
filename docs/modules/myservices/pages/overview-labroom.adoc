@@ -1,0 +1,15 @@
+= Labroom
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+  
+This is the area where you will quide you to use  *Labrooms*
+
+== Labrooms
+
+Services organised in a network with scale dynatotita
+
+
