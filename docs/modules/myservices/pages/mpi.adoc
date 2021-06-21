@@ -44,6 +44,8 @@ pass
 
 == Connect
 
+TIP: Connect Info in *Hybrid*  menu:Instances[More > Connect] 
+
 === Connect via SSH
 
 [source,bash]
@@ -60,7 +62,6 @@ Open a terminal and Run:
 docker exec -it -udocker hybrid-mpi_master_1 /bin/bash
 ----
 
-TIP: More info in *Hybrid*  menu:Instances[More > Connect] 
 
 == Find lab workers
 
