@@ -42,9 +42,13 @@ docker
 pass
 ----
 
+== Directory Map
+
+You can find it in *Hybrid*:  menu:Instances[More > Directory Maps] 
+
 == Connect
 
-TIP: Connect Info in *Hybrid*  menu:Instances[More > Connect] 
+TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect] 
 
 === Connect via SSH
 
