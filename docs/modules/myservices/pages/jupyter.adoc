@@ -34,10 +34,12 @@ root
 
 [source,bash]
 ----
-jovyan (uid=1000, configurable, see options) in group users (gid=100) with ownership over the 
+jovyan (uid=1000, configurable, see options) in group users (gid=100) 
 ----
 
 === home
+
+ownership over the 
 
 [source,bash]
 ----
