@@ -20,28 +20,14 @@ More info here: https://docs.mongodb.com/manual/replication[mongo replication]
 
 [source,bash]
 ----
-/project
+/
 ----
 
 === Default user
 
 [source,bash]
 ----
-docker
-----
-
-=== Default password
-
-[source,bash]
-----
-docker
-----
-
-=== Default password4root
-
-[source,bash]
-----
-pass
+root
 ----
 
 == Directory Map
@@ -58,10 +44,6 @@ TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal 
 
 === Connect via SSH
 
-[source,bash]
-----
-ssh docker@[IP]
-----
 
 === Connect via exec
 
@@ -69,61 +51,87 @@ Open a terminal and Run:
 
 [source,bash]
 ----
-docker exec -it -udocker hybrid-nodevuejs_master_1 /bin/bash
+docker exec -it swarmlabmongo1 /bin/sh
 ----
 
 
-== Find lab workers
+== Default Configuration
+
+=== Port 
+
+[source,bash]
+----
+  27017
+----
+
+=== Root Username
+
+[source,bash]
+----
+  swarmlab
+----
+
+=== Root Password 
+
+[source,bash]
+----
+  swarmlab
+----
+
+=== Database
+
+[source,bash]
+----
+ app_swarmlab
+----
+
+
+=== Database Usename
+
+[source,bash]
+----
+ app_swarmlab
+----
+
+=== Database Password
+
+[source,bash]
+----
+ app_swarmlab
+----
+
+=== ReplicaSet
+
+[source,bash]
+----
+ rs0
+----
+
+== Test it!
 
 NOTE: Commands inside container
 
 [source,bash]
 ----
-ifconfig
+MONGO_INITDB_ROOT_USERNAME=swarmlab 
+MONGO_INITDB_ROOT_PASSWORD=swarmlab 
+MONGO_INITDB_DATABASE=app_swarmlab 
+MONGO_INITDB_USERNAME=app_swarmlab 
+MONGO_INITDB_PASSWORD=app_swarmlab 
+MONGO_REPLICA_SET_NAME=rs0
 
-nmap -sP 172.130.0.0/24 # eth0 ip
+mongo "mongodb://localhost:30001,localhost:30002,localhost:30003/$MONGO_INITDB_DATABASE" -u $MONGO_INITDB_USERNAME 
+mongo "mongodb://localhost:30001,localhost:30002,localhost:30003/app_swarmlab" -u app_swarmlab
 ----
 
 or
 
-[source,bash]
-----
-/project/bin/swarmlab-nmap
-----
-
-== Create a Project
+connect and run 
 
 NOTE: Commands inside container
 
-Vue CLI Documentation
-https://cli.vuejs.org/guide/creating-a-project.html#vue-create
-
-.Creating a Project
-
 [source,bash]
 ----
-vue create hello-world
+mongo
 ----
-
-=== Run it!
-
-[source,bash]
-----
-npm run serve
-----
-
-=== Open it!
-
-[source,bash]
-----
-http://IP:8080 # IP= eth0
-----
-
-=== Find Published ports 
-
-Info in *Hybrid*:  menu:Instances[More > Ports] 
-
-
-
-
 
