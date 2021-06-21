@@ -138,3 +138,25 @@ mongo
 ----
 
 NOTE: Commands inside container
+
+
+
+== Video
+
+=== Start mongo
+
+****
+TIP: Learn how to start mongo
+
+video::565812815[vimeo]
+****
+
+=== Stop mongo
+
+****
+TIP: Learn how to stop mongo
+
+video::565813620[vimeo]
+****
+
+
