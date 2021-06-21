@@ -146,4 +146,22 @@ make example ex=squares
 ----
 
 
+== Video
+
+=== Start MPI
+
+****
+TIP: Learn how to start MPI
+
+video::565804352[vimeo]
+****
+
+=== Stop Linux
+
+****
+TIP: Learn how to stop MPI
+
+video::565807431[vimeo]
+****
+
 
