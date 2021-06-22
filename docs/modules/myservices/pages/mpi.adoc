@@ -62,7 +62,7 @@ TIP: Connect Info in *Hybrid*:  menu:Instances[More > Connect > Open a terminal 
 
 [source,bash]
 ----
-ssh docker@[IP]
+ssh -p [port] docker@[IP] # [port] = Ports
 ----
 
 === Connect via exec
