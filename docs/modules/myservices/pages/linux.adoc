@@ -108,23 +108,18 @@ you can find some examples in dir
 │   │   ├── ansible.cfg
 │   │   ├── fluent.conf
 │   │   └── fluent-config-update.conf
-│   ├── fluentd-config-update.retry
 │   ├── fluentd-config-update.yml
 │   ├── fluentd-config-update.yml.sh
-│   ├── fluentd-test-mongo.retry
 │   ├── fluentd-test-mongo.yml
 │   ├── fluentd-test-mongo.yml.sh
 │   ├── fluentd.yml
 │   ├── fluentd.yml.sh
 │   ├── inventory.yml
-│   └── tmp1
 ├── memory-visualization-examples
 │   ├── bin
 │   │   └── simple-array
 │   ├── LICENSE
 │   ├── Makefile
-│   ├── objects
-│   │   └── simple-array.o
 │   ├── README.md
 │   ├── sources
 │   │   └── simple-array.c
