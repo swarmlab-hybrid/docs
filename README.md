@@ -2,7 +2,7 @@
 
 run
 
-run-antora.sh
+./build.sh
 
 build
 
