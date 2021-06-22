@@ -1,0 +1,13 @@
+site:
+  title: Swarmlab docs
+  url: http://docs.swarmlab.io/SwarmLab-HowTos/swarmlab/docs
+  start_page: swarmlab::index.adoc 
+content:
+  sources:
+  - url: https://git.swarmlab.io:3000/docs/docs.git
+    branches: master
+    start_path: docs
+ui:
+  bundle:
+    url: https://git.swarmlab.io:3000/docs/docs/raw/branch/master/ui-bundle.zip
+    snapshot: true
