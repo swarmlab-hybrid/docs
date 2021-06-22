@@ -1,4 +1,5 @@
 # ---> Ansible
 *.retry
 run.sh
+docs/build
 
