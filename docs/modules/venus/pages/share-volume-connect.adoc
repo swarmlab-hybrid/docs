@@ -12,7 +12,7 @@ This is the area where you will quide you to connect volumes
 
 == connect
 
-shared volumes apo users info tha paroume we using the  image:venus:volume-more.png[] icon
+shared volumes apo Users info tha paroume we using the  image:venus:volume-more.png[] icon
 
 .connect volume
 image::venus:volume-shared-info.png[Volume shared info,700,float=center]
