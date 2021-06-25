@@ -7,20 +7,20 @@ Swarmlab
 :page-pagination:
   
 
-This is the area where you will find senario and  *Quickstart* gia to jurnay sto swarmlab.
+This is where your wondeful journey in the vast world of Swarmlab begins.
 
 == Senario 1
 
-* you are a *teacher* kai theleis na etoimaseis ena ergastirio 
-** na dimiourgissis askissis 
-** na to diamoiraseis stous foitites
-* you are a *student* kai theleis na doulepsis pano se ena project
-* you are a *Developer* kai theleis na dokimaseis kati
-** na kaneis POC
-* you are a *user* kai theleis na dokimaseis pramata 
-** na deis paradeigmata alla den theleis na kaneis polles allages sto normal systima sou
+* you are a *teacher* and want to prepare your lesson 
+** create exercises and examples
+** share them with your students
+* you are a *student* and want to try your newly acquired knowledge on some project
+* you are a *Developer* and would like to denug your application or a real world senario
+** you want to provide POC
+* you are a *user* and just want to try out stuff
+** you want to play around with examples but are too scared to do so on your system
 
-as xekinisoume loipon
+Well this is where you start!
 
 === start service
 === start storage 
@@ -29,13 +29,12 @@ as xekinisoume loipon
 
 == Senario 2
 
-echeis "trexei" ta services pou perigrafonte sto senario 1 kai theleis na kaneis colaboration me allous
+You have already completed senario 1 (using swarmlab or you own resources) and would now like to collaborate with others.
+* as a teacher you would like to distribute the lesson you have prepared and work on it throughout the semester
+* as a developer you want to coordinate with your team
+* as a student you want to communicate and cooperate with your friends
 
-* os teacher theleis na diamoiraseis to ergastirio pou etoimases kai theleis na doulepseis kata tin diarkeia tou semester klp
-* os developer theleis na doulepsis me tous sunadelfou sou
-* is student thelete na doulepsete masi os group
-
-as xekinisoume loipon
+Lets begin!
 
 === create network
 === invite
