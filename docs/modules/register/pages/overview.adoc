@@ -13,7 +13,7 @@ Before you have all of the powerfull tools of Swarmalb at your grasp you will ha
 ====
 .GitHub
 [example]
-If you prefer you may login using your *GitHub* account without creating a Swarmlab account.
+You may also login using your *GitHub* account without creating a Swarmlab account.
 ====
 
 
