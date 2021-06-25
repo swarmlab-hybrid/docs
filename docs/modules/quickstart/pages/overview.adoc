@@ -31,7 +31,7 @@ Well this is where you start!
 
 You have already completed senario 1 (using swarmlab or you own resources) and would now like to collaborate with others.
 
-* as a teacher you would like to distribute the lesson you have prepared and work on it throughout the semester
+* as a teacher you would like to share the lesson you have prepared and work on it throughout the semester
 * as a developer you want to coordinate with your team
 * as a student you want to communicate and cooperate with your friends
 
