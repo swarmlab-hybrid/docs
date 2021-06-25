@@ -44,5 +44,5 @@ and follow the remaining instructions to activate your account. +
 
 == GitHub
 
-Signing in using your GitHub account without a pre-existing Swarmlab account
+Sign in using your GitHub account without a pre-existing Swarmlab account
 
