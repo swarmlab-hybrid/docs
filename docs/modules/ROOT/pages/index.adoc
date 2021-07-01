@@ -2,9 +2,9 @@
   
 image::ROOT:swarmlab.png[swarmlab,150,float=right]
 
-Swarmlab provides the user with the unique abillity to *create Labrooms* (or other applications) and *share* them as project images expanding the simple swarmlab Labrooms to full-blown systems.
+Swarmlab provides the user with the unique abillity to *create Labrooms* (or other applications) and *share* them as project images expanding the simple ideas to full-blown systems.
 
-An all of that using onlly the browser and the command line of their system.
+An all of that using only the browser and the command line of their system.
 
 == Intro
 
@@ -46,7 +46,7 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 * Move Labs between environments
 
-|*Venus make collaboration easier*
+|*VENUS makes collaboration easier*
 
  Build the network you require on demand and without effort.
 
@@ -54,9 +54,9 @@ You can Create and manage
 
 * on-demand network environments using any cloud over any network
 * Connect multiple computers through a network.
-* Share you Labrooms/Applications/Microservices with your friends
+* Share your Labrooms/Applications/Microservices with your friends
 * Move Labs between networks
-* anything else you that might suit your needs in a dynamic and Scalable Distributed Architecture
+* anything else that might suit your needs in a dynamic and Scalable Distributed Architecture
 
 Swarmlab-Venus provides
 
