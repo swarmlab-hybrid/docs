@@ -28,7 +28,7 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 [cols="a,a"]
 |===
-|Hybrid |Venus
+|Hybrid |VENUS - VEnus Network Unification Service
 
 |*We have created an ever-growing database of readilly accessible labrooms you can choose from*
 
