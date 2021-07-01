@@ -18,18 +18,18 @@ image::hybrid:browsing-microservices.png[Browsing labrooms,700,float=center]
 
 == Download
 
-After we have located the desired *MicroServices* we can *Download* it by using the cloud 
+After we have located the desired *MicroService* we can *Download* it by using the cloud 
 image:hybrid:cloud_icon_down.png[Download] icon.
 
 == Delete
 
 The trash 
 image:hybrid:trash_icon.png[Download]
-icon  deletes the *MicroServices*
+icon  deletes the *MicroService*
 
 == Info
 
-To request more info about the *MicroServices* we use the info icon
+To request more info about the *MicroService* we use the info icon
 image:hybrid:info_icon.png[Info]
 
 == Start

@@ -7,11 +7,11 @@ Swarmlab
 :page-pagination:
 
 
-This is the area where you will find the available *storage* and join the desired one.
+This is the area where you will find the available *storages* and join the desired one.
 
 == Storage
 
-You can easily browse throught the available *storage* in the list using the search bar at the top.
+You can easily browse throught the available *storages* in the list using the search bar at the top.
 
 .browsing-storage
 image::hybrid:browsing-storage.png[Browsing labrooms,700,float=center]
@@ -43,7 +43,7 @@ icon
 *start* it by using the *UP* icon 
 
 ****
-TIP: When sharding a cluster, a shard key gets created as one of the initial steps. 
+TIP: When sharding a cluster, a vital step is the creation of shard keys. 
 
 The “shard key” is used to distribute the Cluster collection’s documents across all the shards. 
 
@@ -70,7 +70,7 @@ image::hybrid:console.png[Console,700,float=center]
 === Start Storage
 
 ****
-TIP: Learn how to start using a Storage
+TIP: Learn how to get started with storages
 
 video::564701215[vimeo]
 ****

@@ -6,7 +6,7 @@ Swarmlab
 :!table-caption:
 :page-pagination:
 
-This is the area where you will find the available *Instanches* and running the desired one.
+This is the area where you will find the available *Instances* and run the desired one.
 
 == Labrooms
 

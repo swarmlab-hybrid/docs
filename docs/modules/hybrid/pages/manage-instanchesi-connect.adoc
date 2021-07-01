@@ -8,7 +8,7 @@ Swarmlab
 :experimental:
 
 
-This is the area where you can *connect to running Instanches*
+This is the area where you can *connect to running Instances*
 
 To request more info about the *instance* we use the more icon
 image:hybrid:more.png[Info]
@@ -17,7 +17,7 @@ image:hybrid:more.png[Info]
 
 image:hybrid:more-buttons.png[float=right]
 
-* We can *connect* to instanche by using the btn:[connect] button 
+* We can *connect* to instance by using the btn:[connect] button 
 
 .connect
 image::hybrid:manage-instanches-connect.png[network,float=center]
@@ -51,7 +51,7 @@ image::hybrid:manage-instanches-maps.png[maps,float=center]
 
 App with GUI
 
-Open a terminakl and Run:
+Open a terminal and Run:
 
 [source,bash]
 ----
@@ -63,11 +63,11 @@ xhost +local:docker
 === Connect and maps
 
 **** 
-TIP: Learn how to connect to Instanche using terminal 
+TIP: Learn how to connect to an Instance using the terminal 
 
 video::564842745[vimeo]
 
-TIP: Learn how to connect to Instanche using browser
+TIP: Learn how to connect to Instance using a browser
 
 video::564844891[vimeo]
 ****

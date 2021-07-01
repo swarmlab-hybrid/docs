@@ -64,7 +64,7 @@ image::hybrid:console.png[Console,700,float=center]
 === Start Labroom
 
 ****
-TIP: Learn how to start using a Labroom
+TIP: Learn how to get started with Labrooms
 
 video::564651940[vimeo]
 ****

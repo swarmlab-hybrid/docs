@@ -8,11 +8,11 @@ Swarmlab
 :experimental:
 
 
-This is the area where you can *View and Manage your running Instanches*
+This is the area where you can *View and Manage your running Instances*
 
-== View your running Instanches
+== View your running Instances
 
-You can easily browse throught the running *instanches* in the list using the search bar at the top.
+You can easily browse throught the running *instances* in the list using the search bar at the top.
 
 .view containers
 image::hybrid:manage-instanches.png[Manage instanches,700,float=center]
@@ -33,15 +33,15 @@ image::hybrid:more-menou.png[info,700,float=center]
 
 image:hybrid:more-buttons.png[float=right]
 
-* We can *connect* to instanche by using the btn:[connect] button 
+* We can *connect* to the instance by using the btn:[connect] button 
 * We can *stop* it by using the btn:[stop] button
 * We can *show* the log messages by using the btn:[log] button
-* We can *list* ports exposed outside the Docker Networks by using the btn:[link] button
+* We can *list* exposed ports outside the Docker Networks by using the btn:[link] button
 * We can get info about the *network* with the btn:[network] button image:hybrid:more-network.png[] (see below). 
 
 === Console
 
-The *Console* window shows the log messages for the running instanche 
+The *Console* window shows the log messages for the running instance 
 
 .console
 image::hybrid:console.png[Console,700,float=center]
@@ -60,7 +60,7 @@ image:hybrid:more-network-info-info.png[network,300,float=right]
 
 Networks can be configured to provide complete isolation for containers, which enable building applications that work together securely.
 
-You can add containers to one or more networks. A container with attachments to multiple networks can connect with all of the containers on all of those networks. This lets you build a “hub” of sorts to connect to multiple networks and separate concerns.
+You can add containers to one or more networks. A container with attachments to multiple networks can connect with all of the containers on all of those networks. This lets you build a “hub” of sorts.
 
 === multiple network
 
@@ -71,7 +71,7 @@ image::hybrid:more-network-update.png[Networkupdate,float=center]
 
 You can use kbd:[Ctrl] to select multiple networks
 
-After we have selected the desired *networks* we can *update* it by using the btn:[update] icon
+After we have selected the desired *networks* we can *update* them by using the btn:[update] icon
 
 
 
