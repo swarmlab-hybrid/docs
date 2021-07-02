@@ -8,7 +8,7 @@ Swarmlab
 :experimental:
 
 
-This is the area where you will quide you to Build the network  pou theleis
+This is the area where we will guide you to build the network you require
 
 == Deploy
 
@@ -21,12 +21,12 @@ We can *create* the network by using the btn:[Create Network] button
 
 To start, we need to have a Network Stack Name 
 
-This will bring up all the services, volumes, networks and everything else
+This will contain all the services, volumes, networks and everything else
 in an isolated environment. 
 
 === Name 
 
-A name or something that gives  the subject of your project. 
+A name that describes your network. 
 
 === Start and End Time
 
@@ -60,6 +60,8 @@ We can *add*/*remove* users by using the btn:[Show users] button
 image::venus:manage-deploy-showusers.png[manage user,700,float=center]
 
 and then the buttons above to add or remove the certain user whe want using the btn:[action] button
+
+ATTENTION: YOU WILL HAVE TO ADD YOURSELF MANUALY!!!
 
 == Video
 

@@ -6,7 +6,7 @@ Swarmlab
 :!table-caption:
 :page-pagination:
   
-This is the area where you will quide you to share app and volume
+This is the area where you can share your apps or your volumes.
 
 == App
 

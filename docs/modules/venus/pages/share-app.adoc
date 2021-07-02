@@ -8,16 +8,16 @@ Swarmlab
 :experimental:
 
 
-This is the area where you will quide you to share you app
+This is the area where we will guide you to share you app
 
 == browse apps
 
 .share app
 image::venus:share.png[share app,700,float=center]
 
-sto menou vlepoume ta apps (Instanches) have running prin messo hybrid
+The menu shows the instances that are running (we have started them beforehand using swarmlab hybrid)
 
-edo loipon mporoume na epilexoume poia apo afta theloume na kanoume share
+Now we can choose the ones we want to share.
 
 === app info 
 
@@ -31,42 +31,41 @@ image::venus:share-info.png[app info,700,float=center]
 
 === share app
 
-To share you app we use the btn:[share]
+To share an app we use the btn:[share]
  button
 
 .browsing network 
 image::venus:share-networks.png[browse network,700,float=center]
 
-kato apo to btn:[share] emfanisonte ta diktya pou imaste sindedemnoi
+Underneath the btn:[share] we can see all the networks we are connected to
 
-epilegoume to diktyo ekeiono pou theloume gia na diamirasoume to app
+We now choose the one over which we would like to share the app.
 
 === share status
 
 .share status 
 image::venus:share-networks-info.png[browse network,350,float=right]
 
-TIP: mporoume na doume to status me to btn:[shared], otan den einai shared emfanisete to button btn:[network]
+TIP: we can see our status using the btn:[shared], when the app is shared the btn:[network] button will appear.
 
 == share info
 
 .share info
 image::venus:share-app-info.png[share info,350,float=right]
 
-me to btn:[info] mporoume na doume plirofories sxetika me to app pou kaname share
+the btn:[info] shows information about the shared app
 
-* to url p.x. pou mporoume na diamirasoume stous users
-* to url pou mporoume emeis i idioi na sindethounme
+* the "public" that we can share to other users
+* the private url we can use to connect ourselves
 
-
-TIP: mporoume na doume oti emeis chrissimopioume tin address tou eth0 pou einai sindedemnei me to pc mas
+TIP: for example we can see that we are using eth0 and we can also see the ip address.
 
 [source,bash]
 ----
 http://172.26.0.2:8888/lab?token=819cfaa82577cc7ec49fec0a39f57bc12e37883119237cf3
 ----
 
-eno stous stous users prepei na stiloume to linkl pou vlepoume  sto *URL to send to participants*
+The following is the link the users have to use.
 
 [source,bash]
 ----
@@ -75,12 +74,12 @@ http://10.1.2.67:8888/lab?token=819cfaa82577cc7ec49fec0a39f57bc12e37883119237cf3
 
 == undo share
 
-To undo  the share pou kaname we use the btn:[Default] button
+To stop sharing we can use the btn:[Default] button
 
 .share default info
 image::venus:share-info-default.png[share default info,350,float=right]
 
-TIP: mporoume na doume to status me to btn:[shared], otan den einai shared emfanisete to button btn:[network]
+TIP: we can again check the status using the btn:[shared], when shared, the btn:[network] button will appear.
 
 
 == Video
@@ -96,7 +95,7 @@ video::565627934[vimeo]
 ===  Revoke access to shared 
 
 ****
-TIP: Learn how to  revoke access to a shared 
+TIP: Learn how to  revoke access to a shared app
 
 video::565635682[vimeo]
 ****

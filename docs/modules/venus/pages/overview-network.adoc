@@ -6,7 +6,7 @@ Swarmlab
 :!table-caption:
 :page-pagination:
   
-This is the area where you will quide you to Build the network  or Join one 
+This is the area where we will guide you to create a network or join an existing one
 
 == Deploy
 

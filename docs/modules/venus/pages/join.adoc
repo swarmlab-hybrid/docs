@@ -8,11 +8,11 @@ Swarmlab
 :experimental:
 
 
-This is the area where you will quide you to Join the network  pou theleis
+This is the area where we will guide you to Join the network you desire
 
 == Browse
 
-You can easily browse throught the available *labrooms* in the list using the search bar at the top.
+You can easily browse throught the available *networks* in the list using the search bar at the top.
 
 .browsing network
 image::venus:join.png[Browsing network,700,float=center]
@@ -31,33 +31,31 @@ image::venus:join-info.png[network info,700,float=center]
 
 To request network access we use the btn:[Request Access] button
 
-TIP: To button emfanisete mono otam den to echeis kanei idi pou simeni oti ama to kaneis mia fora den tha emfanistei 
+TIP: the button is only visible if youre NOT already connected!
 
 
 == Connect
 
 image:venus:join-status.png[network connect,300,float=right]
 
-afou kanete request kai sas dechti o owner tha emanistoun accept  icons dipla sto network pou thelete kai stin antistichi stili
+After requesting access and it being granted by the owner we will be able to see the accept icon.
 
+when this icon appears it meant we are ready to use the network using the btn:[Start Network] button
 
-meta apo afto  mporeite na chrissimopiisete to btn:[Start Network] button
+obviously the network has to be up and running
 
-fysika kai prepei prota to network na einai up and running
+the *join* column informs us about our connection status
 
-sto column *join* mporeite na deite an iste sindedemnoi idi sto diktyo i ochi 
+TIP: we can connect as many networks as we please
 
-TIP: mporeite na sindethite se osa diktya thelete
+=== connect mode
 
-
-=== connect modus
-
-.connect modus
+.connect mode
 image::venus:join-connect-mode.png[connect modus,700,float=center]
 
 The *host* option is used to make the interface look like they are running on the host itself
 
-The *container* option containerize the containers networking 
+The *container* option containerizes the containers networking 
 
 ==== host
 
@@ -66,9 +64,9 @@ image:venus:host-connection.png[host connect,350,float=right]
 
 It allows the Virtual Network Interface greater network access than it can normally get.
 
-If you use host then you’ll get all ports listening on the host. 
+If you use 'host' then you’ll get all ports listening on the host. 
 
-This means you will need to check the services you runninf closely (especially if it’s not yours, e.g. an official one provided by a software project) to make sure you don’t inadvertently expose extra services on the network.
+This means you will have to monitor the services you run closely (especially if it’s not yours, e.g. an official one provided by a software project) to make sure you don’t inadvertently expose extra services to the network.
 
 TIP: With this option you *can* access the other participants in the network and vice versa from your computer 
 
@@ -76,7 +74,7 @@ TIP: With this option you *can* access the other participants in the network and
 
 image:venus:container-connection.png[container connect,350,float=right]
 
-A container option is used to isolate the services from different container and the host itself
+A container option is used to isolate the services from the outside world
 
 TIP: With this option you can *NOT* access the other participants in the network and vice versa from your computer 
 
@@ -85,16 +83,16 @@ TIP: With this option you can *NOT* access the other participants in the network
 .connect status
 image::venus:join-connect-status.png[connect status,700,float=center]
 
-after connecting vlepoume 
+after connecting we will be seing something along the following: 
 
-* to status sto collumn *join*
-* emfanisete to btn:[Leave Network] button, to opoio mporoume na to chrissimopiisoume gia na kanoume disconnect
-* stin grammi  *Interface* emfanisete to onoma tou interface kai i ean einai up i down
-* stin grammi  *Network* emfanisete to onoma tou interface pou dimiourgithike
+* our status in the *join* column
+* the btn:[Leave Network] button we can use to disconnect
+* the *Interface* name and whether it is up or down
+* the creted *Network*(interface) name
 
 === connect info
 
-tis parapano plirofories tis pernoume epissis using the btn:[Service Info] button
+all of the above information is also accessible using the btn:[Service Info] button
 
 .connect status info
 image::venus:join-connect-status-info.png[connect status info,700,float=center]
@@ -103,7 +101,7 @@ image::venus:join-connect-status-info.png[connect status info,700,float=center]
 
 image::venus:join-connect-status.png[connect status,700,float=center]
 
-* sto parapanp image vlepoume to btn:[Leave Network] button, to opoio mporoume na to chrissimopiisoume gia na kanoume disconnect
+* the btn:[Leave Network] button -> use it to disconnect
 
 
 == Video

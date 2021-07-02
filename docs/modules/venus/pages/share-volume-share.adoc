@@ -8,7 +8,7 @@ Swarmlab
 :experimental:
 
 
-This is the area where you will quide you to share volumes
+This is the area where we will guide you to share volumes
 
 == share
 
@@ -17,57 +17,57 @@ image::venus:volume-left.png[Volume menou,700,float=center]
 
 === create
 
-gia na kaneis volume share we using the  image:venus:volume-share-icon.png[] icon 
+To share a volume we will be using the  image:venus:volume-share-icon.png[] icon 
 
-tha emfanistei to akoloutho menou
+and be greeted by the following menu:
 
 .create volume
 image::venus:volume-create.png[Volume create,700,float=center]
 
-dose onoma kai rights kai pata to btn:[Create Volume] button 
+Please choose a name before clicking on the btn:[Create Volume] button 
 
-meta apo afto to volume pou ekanes share tha emfanistei sto menou *My shared Volumes*
+You can now locate the volume under *My shared Volumes*
 
 .volume info
 image::venus:volume-info.png[Volume create info,700,float=center]
 
 === Directory info
 
-gia na vreis to directory pou echeis kanei share  we use the image:venus:volume-info-icon.png[] icon
+To locate the shared directory we can use the image:venus:volume-info-icon.png[] icon
 
-pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volume pou theeis na kaneis info
+This is located under the *My shared Volumes* and next to the corresponding volume.
 
 .volume directory info
 image::venus:volume-create-info.png[Volume dir info,700,float=center]
 
-o katalogos p.x. sto paradeigma tha einai tou styl
+e.g. the dir from the example is 
 
 [source,bash]
 ----
 /data/appl/ok/swarmlab-venus/src-local/hybrid/connect/dLZWqFyPxyxOL1DiJ3xCHJhi6ziLK7MJ/volumes/dLZWqFyPxyxOL1DiJ3xCHJhi6ziLK7MJ_myvolume
 ----
 
-se afto mporeite na valete oti archeio thelete na diamoirasete
+here we can drop any file we would like to share
 
 === delete
 
-gia na kaneis delete we using the  image:venus:volume-delete-icon.png[] icon 
+To delete we can simply use the image:venus:volume-delete-icon.png[] icon 
 
-pou mporeis na vreis sto menou *My shared Volumes* kai dipla sto antisticho volume pou theeis na kaneis delete
+again found under the *My shared Volumes* menu and next to the corresponding volume.
 
 .volume info
 image::venus:volume-info.png[Volume create info,700,float=center]
 
-TIP: me to delete svinete i sindessi pou ekanes share kai ochi ta dedomena pou echeis sto antisticho directory
+TIP: deleting a volume only terminates the connection and DOES NOT delete the stored data.
 
 == shared volume info
 
-me to pou tha kaneis shared opos perigrafete parapano tha emfanistei sto menou *Shared volumes*
+After sharing a volme it will be available under the *Shared volumes* menu
 
 .shared volume info
 image::venus:volume-shared-info.png[Volume shared info,700,float=center]
 
-TIP: stous users tha emfanistei antisticha i idia pliroforia. me tou pou tha epilexoun fysika na doun tis sxetikes plriofories tou diktyou
+TIP: other users that look for your network will also have the above info
 
 
 == Video
@@ -83,7 +83,7 @@ video::565647143[vimeo]
 === Remove Shared volume
 
 ****
-TIP: Learn how to remove a shared
+TIP: Learn how to remove a shared volume
 
 video::565659724[vimeo]
 ****

@@ -8,7 +8,7 @@ Swarmlab
 :experimental:
 
 
-This is the area where you will quide you to share  and connect to volumes
+This is the area where we will guide you to share  and connect to volumes
 
 == main menou
 
@@ -24,19 +24,19 @@ on the left mporoume na doume volumes pou kanete eseis share
 image::venus:volume-left.png[Volume menou,700,float=center]
 
 
-sto menou *Virtual networks* sto pano meros  vlepoume ta diktya sta opoia imaste connect
+Using the *Virtual networks* menu we can identify all the networks we are connected to.
 
-sto menou *My shared Volumes* sto kato meros  vlepoume ta volumes pou kaname share
+Using the *My shared Volumes* menu we can locate all the volumes that we have shared.
 
-TIP: plirofories gia to kathe network echoume when we use the  image:venus:volume-more.png[] icon
+TIP: For more info we can always use the image:venus:volume-more.png[] icon
 
 == shared from others
 
-sta dexia mporoume na doume voumes pou ginonte shared apo sindedemneous users
+To the right we can find the volumes that other connected users have shared.
 
-kai ep[issi sto kato meros se poia apo afta iste sindedemnos idi
+and also see if we are already connected to them or not.
 
 .volume from others
 image::venus:volume-right.png[Volume others,700,float=center]
 
-TIP: oi plirofories emfanisonte gia to diktyo pou tha epilexoume (sto top-left menou) kai oxi gia ola ta diktya. gia na paroume aftes afta ta info we using the  image:venus:volume-more.png[] icon
+TIP: the info provided belongs to the selected network. If you wish to get info about another network just select it.
