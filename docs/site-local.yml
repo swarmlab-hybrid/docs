@@ -4,7 +4,7 @@ site:
   start_page: swarmlab::index.adoc 
 content:
   sources:
-  - url: /tmp/docs/docs.git
+  - url: /doc-repo
     branches: master
     start_path: docs
 ui:
