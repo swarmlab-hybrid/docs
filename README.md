@@ -18,7 +18,7 @@ copy docs/build/site
 
 2. Edit modules/*
 
-3.You can use a local build first to try out your changes
+3. You can use a local build first to try out your changes
 
 >
 > ./build-local.sh
