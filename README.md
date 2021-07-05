@@ -8,15 +8,11 @@
 >
 >
 
-## deploy
-
-copy docs/build/site
-
 ## Work senario
 
 1. *Edit antora.yml* (This is the main file)
 
-2. *Edit* modules/
+2. **Edit** modules/
 
 3. You can use a local build first to try out your changes
 
@@ -24,14 +20,14 @@ copy docs/build/site
     > ./build-local.sh
     >
 
-4. *Preview* the results using your browser 
+4. **Preview** the results using your browser 
 
     >
     > http://172.17.0.2:8080 # ip may be different
     >
 
 
-:information_source: When you are satisfied with result push them to the original git repository 
+:information_source: When you are satisfied with result **push** them to the original git repository 
 
 >
 > push.sh [push comment]
@@ -42,3 +38,7 @@ You HAVE to use a string litterall otherwise git will only register the first wo
 >
 >push.sh "my push comment"
 >
+
+## deploy
+
+copy docs/build/site
