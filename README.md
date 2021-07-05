@@ -30,7 +30,7 @@ copy docs/build/site
 > http://172.17.0.2:8080 # ip may be different
 >
 
-5. When you are satisfied with result push them to original the git repository
+5. When you are satisfied with result push them to the original git repository
 
 >
 > push.sh [push comment]
