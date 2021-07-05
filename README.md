@@ -20,24 +20,24 @@ copy docs/build/site
 
 3. You can use a local build first to try out your changes
 
->
-> ./build-local.sh
->
+    >
+    > ./build-local.sh
+    >
 
 4. Preview the results using your browser 
 
->
-> http://172.17.0.2:8080 # ip may be different
->
+    >
+    > http://172.17.0.2:8080 # ip may be different
+    >
 
 5. When you are satisfied with result push them to the original git repository
 
->
-> push.sh [push comment]
->
-
+    >
+    > push.sh [push comment]
+    >
+    
 You HAVE to use a string litterall otherwise git will only register the first word!
-
->
->push.sh "my push comment"
->
+    
+    >
+    >push.sh "my push comment"
+    >
