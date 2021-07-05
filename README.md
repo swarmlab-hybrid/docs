@@ -39,6 +39,3 @@ You HAVE to use a string litterall otherwise git will only register the first wo
 >push.sh "my push comment"
 >
 
-## Deploy
-
-copy docs/build/site
