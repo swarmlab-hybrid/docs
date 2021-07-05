@@ -1,6 +1,6 @@
 # swarmlab docs
   
-## build from git
+## Build from git
 
 > git clone https://git.swarmlab.io:3000/docs/docs  
 > cd docs  
@@ -8,7 +8,7 @@
 >
 >
 
-## Work senario
+## Work senario (Edit -> Preview -> push)
 
 1. *Edit antora.yml* (This is the main file)
 
@@ -39,6 +39,6 @@ You HAVE to use a string litterall otherwise git will only register the first wo
 >push.sh "my push comment"
 >
 
-## deploy
+## Deploy
 
 copy docs/build/site
