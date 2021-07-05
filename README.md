@@ -2,9 +2,9 @@
   
 ## build from git
 
-> git clone https://git.swarmlab.io:3000/docs/docs
-> cd docs
-> ./build.sh
+> git clone https://git.swarmlab.io:3000/docs/docs  
+> cd docs  
+> ./build.sh  
 >
 >
 
