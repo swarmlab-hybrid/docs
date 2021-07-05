@@ -16,7 +16,7 @@ copy docs/build/site
 
 1. Edit docs antora.yml (This is the main file)
 
-2. Edit modules/*
+2. Edit modules/
 
 3. You can use a local build first to try out your changes
 
