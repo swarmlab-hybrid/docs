@@ -1,6 +1,6 @@
 #!/bin/sh
 
-if [ ! -z $1 ]; then
+if [ ! -z "$1" ]; then
 	comment=$1
 	git add .
 	git commit -m"$comment"

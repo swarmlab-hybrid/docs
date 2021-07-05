@@ -27,13 +27,17 @@ copy docs/build/site
 4. Preview the results using your browser 
 
 >
-> http://172.17.0.2:8080 # ip may be dieferent
+> http://172.17.0.2:8080 # ip may be different
 >
 
 5. When you are satisfied with result push them to original the git repository
 
 >
-> push.sh ["push comment"]
+> push.sh [push comment]
 >
 
 You HAVE to use a string litterall otherwise git will only register the first word!
+
+>
+>push.sh "my push comment"
+>
