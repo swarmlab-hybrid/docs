@@ -36,6 +36,16 @@
 You HAVE to use a string litterall otherwise git will only register the first word!
     
 >
->push.sh "my push comment"
+> ./push.sh "my push comment"
 >
+
+## update antora
+
+>
+> ./antora-update.sh
+>
+
+## examples 
+
+see README.examples-adoc.md
 
