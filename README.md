@@ -8,7 +8,7 @@
 >
 >
 
-## Work senario (Edit -> Preview -> push)
+## Workflow (Edit -> Preview -> push)
 
 1. *Edit antora.yml* (This is the main file)
 
