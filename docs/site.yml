@@ -13,6 +13,8 @@ ui:
     snapshot: true
   supplemental_files: ./supplemental-ui
 asciidoc:
+  attributes:
+    :plantuml-server-url: http://www.plantuml.com/plantuml
   extensions:
   - '@djencks/asciidoctor-mathjax'
-
+  - asciidoctor-plantuml
