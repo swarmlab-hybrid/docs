@@ -1,4 +1,4 @@
-= Netowk
+= Network
 Swarmlab
 :idprefix:
 :idseparator: -
@@ -6,15 +6,9 @@ Swarmlab
 :!table-caption:
 :page-pagination:
   
-This is the area where we will guide you to create a network or join an existing one
+This is the area where we will guide you to deploy a network or join an existing one
 
-== Deploy
+== link:/swarmlab/docs/venus/deploy.html[Deploy] 
 
-This page is start
-
-== Join
-
-This page is scale
-
-
+== link:/swarmlab/docs/venus/join.html[Join]
 
