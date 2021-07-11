@@ -11,7 +11,7 @@ This is the area where you will find the available *storages* and join the desir
 
 == Storage
 
-You can easily browse throught the available *storages* in the list using the search bar at the top.
+If you would like to store data for your work we provide storage options.
 
 .browsing-storage
 image::hybrid:browsing-storage.png[Browsing labrooms,700,float=center]

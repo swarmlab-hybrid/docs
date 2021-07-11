@@ -11,7 +11,7 @@ This is the area where you will find the available *MicroServices* and join the 
 
 == Microservices
 
-You can easily browse throught the available *MicroServices* in the list using the search bar at the top.
+In case you need additional services for your project you can launch them here.
 
 .browsing-MicroServices
 image::hybrid:browsing-microservices.png[Browsing labrooms,700,float=center]

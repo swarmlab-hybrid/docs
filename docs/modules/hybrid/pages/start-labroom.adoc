@@ -11,6 +11,8 @@ This is the area where you will find the available *labrooms* and join the desir
 
 == Labroom
 
+A labroom is a contained environment created to suit your unique needs.
+
 You can easily browse throught the available *labrooms* in the list using the search bar at the top.
 
 .browsing-labroom

@@ -12,7 +12,7 @@ This is the area where you will quide you to manage the user access
 
 == show networks
 
-To request more info about the *network* we use the 
+To request more info about the *user* we use the 
 image:hybrid:more.png[Network]
 icon
 
@@ -26,7 +26,7 @@ We can *add*/*remove* users by using the btn:[Show users] button
 .network user
 image::venus:manage-deploy-showusers.png[manage user,700,float=center]
 
-and then the buttons above to add or remove the certain user whe want using the btn:[action] button
+and then btn:[action]
 
 == Video
 
