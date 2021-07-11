@@ -8,10 +8,10 @@ Swarmlab
 
 This is the area where you will find the available *Instances* and run the desired one.
 
-== Labrooms
+== link:/swarmlab/docs/hybrid/start-labroom.html[Labrooms]
 
-== Storage
+== link:/swarmlab/docs/hybrid/start-storage.html[Storage]
 
-== MicroServices
+== link:/swarmlab/docs/hybrid/start-microservices.html[MicroServices]
 
 

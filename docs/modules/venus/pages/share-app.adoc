@@ -8,7 +8,7 @@ Swarmlab
 :experimental:
 
 
-This is the area where we will guide you to share you app
+This is the area where we will guide you to share your app
 
 == browse apps
 

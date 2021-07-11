@@ -22,9 +22,9 @@ This is where your wondeful journey in the vast world of Swarmlab begins.
 
 Well this is where you start!
 
-=== link:/swarmlab/docs/hybrid/start-labroom.html[start labroom]
-=== link:/swarmlab/docs/hybrid/start-storage.html[start storage]
-=== link:/swarmlab/docs/hybrid/start-microservices.html[start service]
+=== link:hybrid/start-labroom.html[start labroom]
+=== link:hybrid/start-storage.html[start storage]
+=== link:hybrid/start-microservices.html[start service]
 
 
 == Senario 2
@@ -37,9 +37,10 @@ You have already completed senario 1 (using swarmlab or you own resources) and w
 
 Lets begin!
 
-=== link:/swarmlab/docs/venus/deploy.html[create network]
-=== link:/swarmlab/docs/venus/join.html[invite/join]
-=== link:/swarmlab/docs/venus/share-volume.html[volumes]
-=== link:/swarmlab/docs/venus/share-app.html[apps]
+=== create network
+=== invite
+=== share
+==== app
+==== volume
 
 

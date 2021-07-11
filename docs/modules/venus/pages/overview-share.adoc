@@ -8,13 +8,11 @@ Swarmlab
   
 This is the area where you can share your apps or your volumes.
 
-== App
+== link:/swarmlab/docs/venus/share-app.html[App]
 
-This page is start
+This is the area where we will guide you to share your app
 
-== Volume
+== link:/swarmlab/docs/venus/share-volume.html[Volume]
 
-This page is scale
-
-
+This is the area where we will guide you to share and connect to volumes.
 

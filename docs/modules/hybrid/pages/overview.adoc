@@ -9,7 +9,15 @@ Swarmlab
 This is the area where you will find the available *labrooms* and join the desired one.
 
 
-== Private/Local
-== Instanches
-== Hybrid/Public
+== link:/swarmlab/docs/hybrid/start-labroom.html[Private/Local]
+A labroom is a contained environment created to suit your unique needs.
+
+== link:/swarmlab/docs/hybrid/start-storage.html[Instances]
+If you would like to store data for your work we provide storage options.
+
+== link:/swarmlab/docs/hybrid/manage-instanches.html[Instances]
+This is the area where you can View and Manage your running Instances
+
 == Builders
+Build your own virtual machine using a fiendly environment and no code at all!
+Get started here.

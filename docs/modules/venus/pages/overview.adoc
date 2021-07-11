@@ -12,14 +12,12 @@ share app/volume stous collaborators
 
 == Network
 
-* Join 
-* Deploy
+* link:/swarmlab/docs/venus/deploy.html[Deploy] 
+* link:/swarmlab/docs/venus/join.html[Join]
 
 == Share
 
-* App
-* Volume
-
-== Stats
+* link:/swarmlab/docs/venus/share-app.html[App]
+* link:/swarmlab/docs/venus/share-volume.html[Volume]
 
 
