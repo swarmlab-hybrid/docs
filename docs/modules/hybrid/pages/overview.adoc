@@ -12,7 +12,7 @@ This is the area where you will find the available *labrooms* and join the desir
 == link:/swarmlab/docs/hybrid/start-labroom.html[Private/Local]
 A labroom is a contained environment created to suit your unique needs.
 
-== link:/swarmlab/docs/hybrid/start-storage.html[Instances]
+== link:/swarmlab/docs/hybrid/start-storage.html[Storage]
 If you would like to store data for your work we provide storage options.
 
 == link:/swarmlab/docs/hybrid/manage-instanches.html[Instances]
