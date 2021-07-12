@@ -1,5 +1,5 @@
-name: Swarmlab
-title: Swarmlab
+name: swarmlab
+title: swarmlab
 version: docs
 nav:
 - modules/ROOT/nav.adoc
