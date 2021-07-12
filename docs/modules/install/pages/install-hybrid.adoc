@@ -1,0 +1,279 @@
+= Hybrid
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+:experimental:
+
+
+== System requirements 
+
+[cols="1,2"] 
+|===
+|OS |A *Linux Server* (Virtual or Physical)
+
+or 
+
+*Windows 10* with Windows Subsystem for Linux 
+
+|RAM
+|Absolute minimum to run the daemon and some very light containers - 512MB
+
+Minimum for *“comfortable”* usage – *2GB*
+
+|CPU
+|Minimum: 2
+
+*Recommended 4+*
+|Disk Space
+|10 GB for internal requirements.
+
+The amount of additional disk space soloemnly *depends on you intended use.*
+|===
+
+TIP: Since Docker uses hypervisor the host NEEDS TO HAVE VIRTUALIZATION ENABLED!
+
+== Prerequisites
+
+=== node version >15
+
+[source,sh]
+----
+curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+sudo apt-get install -y nodejs
+----
+
+=== docker
+
+[source,sh]
+----
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable"
+sudo apt update
+sudo apt install -y docker-ce
+sudo usermod -aG docker [USERNAME] # Please replace [USERNAME] with the user you want to run docker on
+----
+
+TIP: for kali specifically please visit the following link to 
+https://linuxhint.com/install_docker_kali_linux/[install docker^]
+
+=== docker-compose
+
+[source,sh]
+----
+sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
+----
+
+=== pm2
+
+[source,sh]
+----
+sudo npm install -g pm2
+----
+
+
+
+== Install 
+
+=== Linux
+
+
+==== Clone the repo
+
+[source,sh]
+----
+git clone --recurse-submodules https://git.swarmlab.io:3000/zeus/swarmlab-hybrid.git
+----
+
+==== Install it!
+
+[source,sh]
+----
+cd swarmlab-hybrid
+./install.sh  <-- run it without root privileges
+----
+
+
+
+=== Windows
+
+
+* https://docs.microsoft.com/en-us/windows/wsl/install-win10[Install wsl^]
+
+* Download https://hub.docker.com/editions/community/docker-ce-desktop-windows/[Docker Desktop Stable 2.3.0.2^] or a later release.
+
+* Install
+
+Ensure you have completed the steps described in the Prerequisites section before installing the Docker Desktop Stable 2.3.0.2 release.
+
+Follow the usual installation instructions to install Docker Desktop. If you are running a supported system, Docker Desktop prompts you to enable WSL 2 during installation. Read the information displayed on the screen and enable WSL 2 to continue.
+
+* Start Docker Desktop from the Windows Start menu.
+
+From the Docker menu, select menu:Settings[General]
+
+image:install:wsl2-enable.png[]
+
+* Select the Use WSL 2 based engine check box.
+
+ If you have installed Docker Desktop on a system that supports WSL 2, this option will be enabled by default.
+
+[source,sh]
+====
+Click Apply & Restart.
+====
+
+* Ensure the distribution runs in WSL 2 mode. WSL can run distributions in both v1 or v2 mode.
+
+To check the WSL mode, run:
+
+[source,sh]
+----
+wsl.exe -l -v
+----
+
+To upgrade your existing Linux distro to v2, run:
+
+[source,sh]
+----
+wsl.exe --set-version (distro name) 2
+----
+
+To set v2 as the default version for future installations, run:
+
+[source,sh]
+----
+wsl.exe --set-default-version 2
+----
+
+When Docker Desktop restarts, go to menu:Settings[Resources > WSL Integration]
+
+image:install:wsl2-choose-distro.png[]
+
+* WSL 2 Choose Linux distro
+
+[source,sh]
+====
+Click Apply & Restart.
+====
+
+ The Docker-WSL integration will be enabled on your default WSL distribution. 
+
+* To change your default WSL distro, run 
+
+[source,sh]
+----
+wsl --set-default <distro name>.
+----
+
+[NOTE]
+====
+
+For example, to set Ubuntu as your default WSL distro, run wsl --set-default ubuntu.
+Optionally, select any additional distributions you would like to enable the Docker-WSL integration on.
+
+The Docker-WSL integration components running in your distro depend on glibc. This can cause issues when running musl-based distros such as Alpine Linux. Alpine users can use the alpine-pkg-glibc package to deploy glibc alongside musl to run the integration.
+====
+
+
+
+
+
+==== Fix network issues
+
+[source,sh]
+----
+# Delete auto-generated files
+rm /etc/resolv.conf || true
+rm /etc/wsl.conf || true
+----
+
+.Enable changing /etc/resolv.conf
+[source,sh]
+----
+# Enable changing /etc/resolv.conf
+# Enable extended attributes on Windows drives
+cat <<EOF > /etc/wsl.conf
+[network]
+generateResolvConf = false
+
+[automount]
+enabled = true
+options = "metadata"
+mountFsTab = false
+EOF
+
+# Use google nameservers for DNS resolution
+cat <<EOF > /etc/resolv.conf
+nameserver 8.8.8.8
+nameserver 8.8.4.4
+EOF
+----
+
+.Exit Linux WSL
+
+.cmd as admin:
+
+[source,sh]
+----
+wsl --shutdown
+netsh winsock reset
+netsh int ip reset all
+netsh winhttp reset proxy
+ipconfig /flushdns
+----
+
+Windows menu:Search[Network Reset]
+
+[source,sh]
+====
+Restart Windows
+====
+
+
+.Install Hybrid
+****
+
+.Clone the repo
+[source,sh]
+----
+git clone --recurse-submodules https://git.swarmlab.io:3000/zeus/swarmlab-hybrid.git
+----
+
+.Install it!
+[source,sh]
+----
+cd swarmlab-hybrid
+./install.sh  <-- run it without root privileges
+----
+****
+
+
+
+== start/stop service
+
+TIP: Linux and Windows
+
+=== start
+
+[source,sh]
+----
+./start
+----
+
+=== stop
+
+[source,sh]
+----
+./stop
+----
+
+[source,sh]
+====
+Open URL http://localhost:3088 in browser
+====
+

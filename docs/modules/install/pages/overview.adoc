@@ -1,0 +1,26 @@
+= Install
+Swarmlab
+:idprefix:
+:idseparator: -
+:!example-caption:
+:!table-caption:
+:page-pagination:
+
+Before you have all of the powerfull tools of Swarmalb at your grasp you will have to install it!
+
+
+== xref:install:install-hybrid.adoc[Hybrid]
+
+On demand Labrooms
+
+Ready-to-Use Virtual Labs one click away.
+
+xref:ROOT:index.adoc#_services[show Features]
+
+== xref:install:install-venus.adoc[Venus]
+
+on-demand network environments using any cloud over any network
+
+Build the network you require on demand and without effort.
+
+xref:ROOT:index.adoc#_services[show Features]
