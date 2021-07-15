@@ -21,4 +21,4 @@ After run can you attach network to it
 
 === Microservices
 
-diverse microservices pou mporeis na trexeis kai na ta kaneis attache se storage i labrooms i opou allou theleis
+Diverse microservice collection you can attach to your labroom or storage, or maybe run them your own custom way!
