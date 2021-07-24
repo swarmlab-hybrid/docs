@@ -1,8 +1,17 @@
 # swarmlab docs
-  
+
+A [swarmlab.io](http://www.swarmlab.io) sidecar container.
+
+Docs is a multi-repository documentation site generator (Antora based)
+
+[swarmlab.io docs](http://docs.swarmlab.io/SwarmLab-HowTos/swarmlab/docs/swarmlab/docs/index.html)
+
 ## Build from git
 
 > git clone https://git.swarmlab.io:3000/docs/docs  
+> or
+> git clone https://github.com/swarmlab-hybrid/docs.git
+>
 > cd docs  
 > ./build.sh  
 >

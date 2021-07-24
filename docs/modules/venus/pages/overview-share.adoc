@@ -16,3 +16,22 @@ This is the area where we will guide you to share your app
 
 This is the area where we will guide you to share and connect to volumes.
 
+[TIP]
+====
+
+From a technical point of view, swarmlab venus differs from solutions such as Google Drive or Dropbox. Swarmlab Venus is not based on a public cloud. 
+
+swarmlab shares a in user's existing storages.  
+
+Swarmlab allows you to keep your data inside your infrastructure.
+
+Swarmlab Venus echei sta plana tis na offers tin dynatotita share messo cloud server gia na parexei afti tin dynatotita
+
+
+freedom of choice
+
+*Emeis mos agapame protinoume kai protinoume  to*
+
+*Federated-Sharing*
+====
+

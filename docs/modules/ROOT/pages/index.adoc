@@ -46,6 +46,7 @@ image:https://git.swarmlab.io:3000/zeus/swarmlab-hybrid/raw/branch/master/docs/i
 
 * Move Labs between environments
 
+
 |*VENUS makes collaboration easier*
 
  Build the network you require on demand and without effort.
@@ -65,6 +66,40 @@ Swarmlab-Venus provides
 * Architecture/Platform Agnostic
 * Manage user network access
 * Network traffic analysis
+
+
+|===
+
+
+[cols="a,a,grid=none"]
+|====
+|
+
+****
+*Focus on Your project code,*
+
+*Not in servers and Lab settings*
+
+[source,sh]
+----
+Chose the labroom you need and ... you are ready
+----
+****
+
+|
+****
+*Focus on Your lab project,*
+
+*Not in lab and Network settings*
+
+
+[source,sh]
+----
+Chose the labroom you need and deploy it to your participants
+
+Write your docs and lab code in your prefered language and share it!. 
+----
+****
 
 |===
 
