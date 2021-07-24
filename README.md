@@ -10,7 +10,6 @@ Docs is a multi-repository documentation site generator (Antora based)
 
 > git clone https://git.swarmlab.io:3000/docs/docs  
 > or 
->
 > git clone https://github.com/swarmlab-hybrid/docs.git 
 >
 > cd docs  
