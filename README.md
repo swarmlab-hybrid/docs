@@ -1,62 +1,86 @@
 # swarmlab docs
 
-A [swarmlab.io](http://www.swarmlab.io) sidecar container.
+ 
+## This is not the main repository and may be out of date!!!!
 
-Docs is a multi-repository documentation site generator (Antora based)
+Please refer <a href="https://git.swarmlab.io:3000/docs/Documentation">here</a> for our official git.
+ 
+# Swarmlab docs
+## Application development in a distributed system 
+### Development of Distributed Systems from Design to Application
 
-[swarmlab.io docs](http://docs.swarmlab.io/SwarmLab-HowTos/swarmlab/docs/swarmlab/docs/index.html)
+----
 
-## Build from git
+# Build
 
-> git clone https://git.swarmlab.io:3000/docs/docs  
-> or   
-> git clone https://github.com/swarmlab-hybrid/docs.git 
+> git clone https://git.swarmlab.io:3000/docs/Documentation.git
 >
-> cd docs  
-> ./build.sh  
+> cd Documentation
 >
+> ./build.sh
 >
-
-## Workflow (Edit -> Preview -> push)
-
-1. *Edit antora.yml* (This is the main file)
-
-2. **Edit** modules/
-
-3. You can use a local build first to try out your changes
-
-    >
-    > ./build-local.sh
-    >
-
-4. **Preview** the results using your browser 
-
-    >
-    > http://172.17.0.2:8080 # ip may be different
-    >
-
-
-:information_source: When you are satisfied with result **push** them to the original git repository 
-
->
-> push.sh [push comment]
->
-        
-You HAVE to use a string litterall otherwise git will only register the first word!
-        
->
-> ./push.sh "my push comment"
->
-    
-## update antora
-    
->
-> ./antora-update.sh
 >
 
-## examples 
+   *The auto completion script for Bash can be generated with the command*
+>
+> source ./auto-complete.sh
+>
+
+
+
+### On Error
 
 >
-> see README.examples-adoc.md
+> Get https://hub.swarmlab.io:5480/v2/: x509: certificate
 >
+> Pulling  ...
+> 
+> ERROR: Get https://hub.swarmlab.io:5480/v2/: x509: certificate signed by unknown authority
+>
+
+   *run*
+>
+>  ./0-get-certs.sh
+>
+
+
+### On Error response from daemon
+
+>
+>docker: Error response from daemon: Get https://registry.vlabs.uniwa.gr:5080/v2/: dial tcp: lookup registry.vlabs.uniwa.gr on [::1]:53: read udp [::1]:56425->[::1]:53: read: connection refused.
+>
+>Try again!
+>
+
+----
+
+# This guide contains the following  topics:
+
+
+Option | Desc
+------ | ------
+all | All
+faq | FAQ
+iptables | This tutorial demonstrates, howto setup iptables & howto use it
+network-scanning | This tutorial demonstrates some common nmap port scanning scenarios and explains the output
+network-adhoc | This tutorial demonstrates, howto setup ad-hoc network & howto use it
+poc-datacollector | This tutorial demonstrates, howto setup data collector & howto use it
+raspi-docker | This tutorial demonstrates, howto setup docker on Raspberry PI & howto use it
+sensor-node | This tutorial demonstrates, howto create a mote with Raspberry Pi and Arduino & howto use it
+ssh-tunneling | This tutorial demonstrates, howto create a ssh-tunneling & howto use it
+xelatex-thesis| This tutorial demonstrates, howto setup xelatex & howto use it
+tech-list  | This tutorial provides a list of commonly used tools
+
+> e.q.
+> 
+> ./build.sh faq
+> 
+> 
+
+----
+
+#### poc-rocketchat
+> 
+>> Start poc-rocketchat with URL: http://localhost:7030
+> 
 
